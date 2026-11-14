@@ -1,0 +1,30 @@
+{
+  "whole": {
+    "count": 13,
+    "median_ratio": 2.8772169167803545,
+    "min_ratio": 1.9729861875076395,
+    "max_ratio": 6.143144472196661,
+    "total_native_chars": 2614053,
+    "total_best_chars": 579191,
+    "aggregate_ratio": 4.513283182922387,
+    "aggregate_reduction_pct": 77.84318068531893,
+    "best_json_chars": 1473062,
+    "structure_vs_best_json_ratio": 2.54330954728233,
+    "structure_zlib_chars": 736598,
+    "zlib_aggregate_ratio": 3.5488190301901446
+  },
+  "leaf": {
+    "count": 54,
+    "median_ratio": 2.0890231690222407,
+    "min_ratio": 1.2648327939590076,
+    "max_ratio": 78.7448717948718,
+    "total_native_chars": 1211230,
+    "total_best_chars": 286068,
+    "aggregate_ratio": 4.234063229721604,
+    "aggregate_reduction_pct": 76.38202488379581,
+    "best_json_chars": 713816,
+    "structure_vs_best_json_ratio": 2.495266859627781,
+    "structure_zlib_chars": 337888,
+    "zlib_aggregate_ratio": 3.5847085424756133
+  }
+}

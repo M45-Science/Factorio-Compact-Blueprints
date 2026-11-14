@@ -1,0 +1,10 @@
+__pycache__/
+compressed.txt
+restored.txt
+.venv/
+# Download community designs locally; publish provenance and fetch scripts.
+corpus/*.blueprint
+corpus/*.txt
+site-corpus/*.blueprint
+site-corpus/mirror-commit.txt
+block-example-*.txt

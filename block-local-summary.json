@@ -1,0 +1,26 @@
+{
+  "whole": {
+    "count": 13,
+    "previous_chars": 579191,
+    "best_chars": 536595,
+    "extra_reduction_pct": 7.354396045518663,
+    "native_ratio": 4.871556760685433,
+    "median_extra_reduction_pct": 6.165505012263706,
+    "control_chars": 540601,
+    "motif_extra_over_controls_pct": 0.7410271161170656,
+    "improved_fixtures": 11,
+    "motif_wins_over_controls": 4
+  },
+  "leaf": {
+    "count": 54,
+    "previous_chars": 286068,
+    "best_chars": 267564,
+    "extra_reduction_pct": 6.468392130542389,
+    "native_ratio": 4.526879550313196,
+    "median_extra_reduction_pct": 2.817045102849247,
+    "control_chars": 268160,
+    "motif_extra_over_controls_pct": 0.22225536992840356,
+    "improved_fixtures": 39,
+    "motif_wins_over_controls": 9
+  }
+}

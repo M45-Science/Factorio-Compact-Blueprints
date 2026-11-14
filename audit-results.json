@@ -1,0 +1,14 @@
+{
+  "fixtures": 67,
+  "candidate_roundtrips": 3015,
+  "all_saved_lengths_match": true,
+  "source_hashes_match": true,
+  "aggregate_summaries_match": true,
+  "implementation_sha256": "019ee4daa52c6177effba3b379f44639503084d1deb6dc84a60b8c05510f3dfc",
+  "packages": {
+    "msgpack": "1.0.3",
+    "Brotli": "1.1.0",
+    "zstandard": "0.22.0"
+  },
+  "seconds": 251.35
+}

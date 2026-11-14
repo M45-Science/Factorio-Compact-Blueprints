@@ -1,0 +1,360 @@
+{
+  "imported_equal": 67,
+  "clean": 61,
+  "warnings": 6,
+  "both_rejected": 0,
+  "total": 67,
+  "cases": [
+    {
+      "key": "-MIMpsZJa9WHxI4H6fcD/whole",
+      "status": 0,
+      "exports_equal": true
+    },
+    {
+      "key": "-MIMpsZJa9WHxI4H6fcD/7/2",
+      "status": 0,
+      "exports_equal": true
+    },
+    {
+      "key": "-MIMpsZJa9WHxI4H6fcD/6/4",
+      "status": 0,
+      "exports_equal": true
+    },
+    {
+      "key": "-MIMpsZJa9WHxI4H6fcD/2/2",
+      "status": 0,
+      "exports_equal": true
+    },
+    {
+      "key": "-MIMpsZJa9WHxI4H6fcD/17/3",
+      "status": 0,
+      "exports_equal": true
+    },
+    {
+      "key": "-MIMpsZJa9WHxI4H6fcD/9/7",
+      "status": 0,
+      "exports_equal": true
+    },
+    {
+      "key": "-ML5RsMXhj7tnbbzs02H/whole",
+      "status": 0,
+      "exports_equal": true
+    },
+    {
+      "key": "-ML5RsMXhj7tnbbzs02H/0/8",
+      "status": 0,
+      "exports_equal": true
+    },
+    {
+      "key": "-ML5RsMXhj7tnbbzs02H/0/9",
+      "status": 0,
+      "exports_equal": true
+    },
+    {
+      "key": "-ML5RsMXhj7tnbbzs02H/7/10",
+      "status": 0,
+      "exports_equal": true
+    },
+    {
+      "key": "-ML5RsMXhj7tnbbzs02H/7/14",
+      "status": 0,
+      "exports_equal": true
+    },
+    {
+      "key": "-ML5RsMXhj7tnbbzs02H/9/7",
+      "status": 0,
+      "exports_equal": true
+    },
+    {
+      "key": "-Ln7bpxs1Mmtyv9yx8x5/whole",
+      "status": 0,
+      "exports_equal": true
+    },
+    {
+      "key": "-Ln7bpxs1Mmtyv9yx8x5/0",
+      "status": 0,
+      "exports_equal": true
+    },
+    {
+      "key": "-Ln7bpxs1Mmtyv9yx8x5/6",
+      "status": 0,
+      "exports_equal": true
+    },
+    {
+      "key": "-Ln7bpxs1Mmtyv9yx8x5/5",
+      "status": 0,
+      "exports_equal": true
+    },
+    {
+      "key": "-Ln7bpxs1Mmtyv9yx8x5/4",
+      "status": 0,
+      "exports_equal": true
+    },
+    {
+      "key": "-Ln7bpxs1Mmtyv9yx8x5/3",
+      "status": 0,
+      "exports_equal": true
+    },
+    {
+      "key": "-MQ9-6LlT_g5PGsGXkyX/whole",
+      "status": 0,
+      "exports_equal": true
+    },
+    {
+      "key": "-K_Me61B1oQ_Dmjbde9B/whole",
+      "status": 0,
+      "exports_equal": true
+    },
+    {
+      "key": "-Kp6dxRcQbpr7UrzJC6x/whole",
+      "status": 0,
+      "exports_equal": true
+    },
+    {
+      "key": "-Kp6dxRcQbpr7UrzJC6x/0",
+      "status": 0,
+      "exports_equal": true
+    },
+    {
+      "key": "-Kp6dxRcQbpr7UrzJC6x/1",
+      "status": 0,
+      "exports_equal": true
+    },
+    {
+      "key": "-LrxBIuzRGB9jKLgPRqH/whole",
+      "status": 0,
+      "exports_equal": true
+    },
+    {
+      "key": "-LrxBIuzRGB9jKLgPRqH/1",
+      "status": 0,
+      "exports_equal": true
+    },
+    {
+      "key": "-LrxBIuzRGB9jKLgPRqH/41",
+      "status": 0,
+      "exports_equal": true
+    },
+    {
+      "key": "-LrxBIuzRGB9jKLgPRqH/18",
+      "status": 0,
+      "exports_equal": true
+    },
+    {
+      "key": "-LrxBIuzRGB9jKLgPRqH/34",
+      "status": 0,
+      "exports_equal": true
+    },
+    {
+      "key": "-LrxBIuzRGB9jKLgPRqH/42",
+      "status": 0,
+      "exports_equal": true
+    },
+    {
+      "key": "-OLexShcZSLG8qYkOLiy/7",
+      "status": 0,
+      "exports_equal": true
+    },
+    {
+      "key": "-OLexShcZSLG8qYkOLiy/26/0",
+      "status": 0,
+      "exports_equal": true
+    },
+    {
+      "key": "-OLexShcZSLG8qYkOLiy/22/13",
+      "status": 0,
+      "exports_equal": true
+    },
+    {
+      "key": "-OLexShcZSLG8qYkOLiy/26/19",
+      "status": 0,
+      "exports_equal": true
+    },
+    {
+      "key": "-OLexShcZSLG8qYkOLiy/25/10",
+      "status": 0,
+      "exports_equal": true
+    },
+    {
+      "key": "-OX4QBKmwEZ6dIBJY5C5/whole",
+      "status": 0,
+      "exports_equal": true
+    },
+    {
+      "key": "-OFo0h6eKudNzNzkh9zL/whole",
+      "status": 0,
+      "exports_equal": true
+    },
+    {
+      "key": "-OL_E6IO4gmQUdqFgTjq/whole",
+      "status": 0,
+      "exports_equal": true
+    },
+    {
+      "key": "-OL_E6IO4gmQUdqFgTjq/3",
+      "status": 0,
+      "exports_equal": true
+    },
+    {
+      "key": "-OL_E6IO4gmQUdqFgTjq/4",
+      "status": 0,
+      "exports_equal": true
+    },
+    {
+      "key": "-OL_E6IO4gmQUdqFgTjq/1",
+      "status": 0,
+      "exports_equal": true
+    },
+    {
+      "key": "-OL_E6IO4gmQUdqFgTjq/6",
+      "status": 0,
+      "exports_equal": true
+    },
+    {
+      "key": "-OL_E6IO4gmQUdqFgTjq/2",
+      "status": 0,
+      "exports_equal": true
+    },
+    {
+      "key": "-OglzvHBH0h-t8JIZKyF/0/0",
+      "status": 0,
+      "exports_equal": true
+    },
+    {
+      "key": "-OglzvHBH0h-t8JIZKyF/0/12",
+      "status": 0,
+      "exports_equal": true
+    },
+    {
+      "key": "-OglzvHBH0h-t8JIZKyF/4/5",
+      "status": 0,
+      "exports_equal": true
+    },
+    {
+      "key": "-OglzvHBH0h-t8JIZKyF/5/8",
+      "status": 0,
+      "exports_equal": true
+    },
+    {
+      "key": "-OglzvHBH0h-t8JIZKyF/1/15",
+      "status": -1,
+      "exports_equal": true
+    },
+    {
+      "key": "-OBdq3vJ2slIWEDAXEeM/whole",
+      "status": 0,
+      "exports_equal": true
+    },
+    {
+      "key": "-OBdq3vJ2slIWEDAXEeM/3/1",
+      "status": 0,
+      "exports_equal": true
+    },
+    {
+      "key": "-OBdq3vJ2slIWEDAXEeM/7/0",
+      "status": 0,
+      "exports_equal": true
+    },
+    {
+      "key": "-OBdq3vJ2slIWEDAXEeM/6/25",
+      "status": 0,
+      "exports_equal": true
+    },
+    {
+      "key": "-OBdq3vJ2slIWEDAXEeM/11/1",
+      "status": 0,
+      "exports_equal": true
+    },
+    {
+      "key": "-OBdq3vJ2slIWEDAXEeM/1/1",
+      "status": -1,
+      "exports_equal": true
+    },
+    {
+      "key": "-LI0gc-a-2_VLWR-tx1d/whole",
+      "status": -1,
+      "exports_equal": true
+    },
+    {
+      "key": "-LI0gc-a-2_VLWR-tx1d/1",
+      "status": -1,
+      "exports_equal": true
+    },
+    {
+      "key": "-LI0gc-a-2_VLWR-tx1d/34",
+      "status": -1,
+      "exports_equal": true
+    },
+    {
+      "key": "-OXRxN4v1U8dwIjSO4l4/8/12",
+      "status": 0,
+      "exports_equal": true
+    },
+    {
+      "key": "-OXRxN4v1U8dwIjSO4l4/1/1",
+      "status": 0,
+      "exports_equal": true
+    },
+    {
+      "key": "-OXRxN4v1U8dwIjSO4l4/8/14",
+      "status": 0,
+      "exports_equal": true
+    },
+    {
+      "key": "-OXRxN4v1U8dwIjSO4l4/1/5",
+      "status": 0,
+      "exports_equal": true
+    },
+    {
+      "key": "-OXRxN4v1U8dwIjSO4l4/6/2",
+      "status": -1,
+      "exports_equal": true
+    },
+    {
+      "key": "-MK-xIWwMHTIBuSh3ZWQ/whole",
+      "status": 0,
+      "exports_equal": true
+    },
+    {
+      "key": "-MK-xIWwMHTIBuSh3ZWQ/13",
+      "status": 0,
+      "exports_equal": true
+    },
+    {
+      "key": "-MK-xIWwMHTIBuSh3ZWQ/14",
+      "status": 0,
+      "exports_equal": true
+    },
+    {
+      "key": "-MK-xIWwMHTIBuSh3ZWQ/4",
+      "status": 0,
+      "exports_equal": true
+    },
+    {
+      "key": "-MK-xIWwMHTIBuSh3ZWQ/17",
+      "status": 0,
+      "exports_equal": true
+    },
+    {
+      "key": "-MK-xIWwMHTIBuSh3ZWQ/18",
+      "status": 0,
+      "exports_equal": true
+    }
+  ],
+  "mods": {
+    "base": "2.1.24",
+    "elevated-rails": "2.1.24",
+    "recycler": "2.1.24",
+    "quality": "2.1.24",
+    "space-age": "2.1.24"
+  },
+  "version": "Version: 2.1.24 (build 87808, linux64, headless)",
+  "requested_mods": [
+    "base",
+    "elevated-rails",
+    "quality",
+    "space-age"
+  ],
+  "reexport_comparison": "byte-identical",
+  "mismatches": 0
+}
