@@ -6,7 +6,8 @@ Works with individual blueprints and blueprint books.
 ## How much smaller?
 
 In our public-blueprint test, the strings were **about 80% shorter overall**.
-Savings vary by design.
+That is **about 5:1**, or **roughly one-fifth the original length**. Savings vary
+by design.
 
 [See the blueprints and results](BENCHMARKS.md)
 
