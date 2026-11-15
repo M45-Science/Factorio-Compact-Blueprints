@@ -57,7 +57,7 @@ def unzigzag(n):
 
 
 def sequence(values):
-    """Q3-inspired adaptive modes, plus varint deltas and delta runs."""
+    """Adaptive integer sequences, including varint deltas and delta runs."""
     choices = [[0, values]]
     n = len(values)
     if not n:

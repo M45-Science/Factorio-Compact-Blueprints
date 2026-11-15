@@ -10,8 +10,6 @@ were needed during this audit.
 
 - All **3,015 candidates across the 67 popular-site fixtures** reconstructed
   identical parsed JSON. Every saved per-mode length and winning size matched.
-- All **140 candidates across the original 14 fixtures** also reconstructed
-  identical parsed JSON and matched their saved lengths.
 - Downloaded fixture hashes, the codec implementation fingerprint, and the
   published site/block summary calculations matched their recorded values.
 - A fresh Python 3.12 virtual environment installed the pinned dependencies and
@@ -25,9 +23,9 @@ prototype, that is an **8.95%** additional reduction. Explicit block modes add
 **0.55%** beyond the graph, ordering, and shared-settings controls. These are
 curated-sample results, not a guarantee for arbitrary blueprints.
 
-Machine-readable evidence: [site audit](audit-results.json),
-[original-fixture audit](initial-audit-results.json),
-[game audit](factorio-audit-results.json).
+Machine-readable evidence: [site audit](audit-results.json) and
+[game audit](factorio-audit-results.json). Public design links and detailed
+measurements are on the [Benchmarks page](BENCHMARKS.md).
 
 ## Factorio import comparison
 
@@ -70,8 +68,6 @@ python3 -m venv .venv
 . .venv/bin/activate
 python3 -m pip install -r requirements.txt
 python3 -m unittest discover -v
-python3 fetch_corpus.py
-python3 benchmark.py
 python3 fetch_site_corpus.py
 python3 audit.py --game-pairs /tmp/blueprint-import-pairs.json
 python3 test_factorio.py /path/to/factorio/bin/x64/factorio /tmp/blueprint-import-pairs.json

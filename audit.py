@@ -26,8 +26,6 @@ def main():
     for source in json.loads((ROOT / "site-corpus/sources.json").read_text()):
         text = (ROOT / "site-corpus" / source["file"]).read_text().strip()
         assert hashlib.sha256(text.encode()).hexdigest() == source["sha256"], source["id"]
-    for source in json.loads((ROOT / "corpus/sources.json").read_text()):
-        assert hashlib.sha256((ROOT / "corpus" / source["file"]).read_bytes()).hexdigest() == source["sha256"]
     assert summary(old_rows) == json.loads((ROOT / "site-summary.json").read_text())
     assert summarize(new_rows) == json.loads((ROOT / "block-summary.json").read_text())
     total = 0

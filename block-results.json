@@ -9,7 +9,7 @@
     "key": "-MIMpsZJa9WHxI4H6fcD/whole",
     "source_chars": 489893,
     "page_count": 110,
-    "implementation_sha256": "019ee4daa52c6177effba3b379f44639503084d1deb6dc84a60b8c05510f3dfc",
+    "implementation_sha256": "02d6412566f097636f732e01306b59453bb71cfe4ab952b2f68e2ed3147995ca",
     "previous_chars": 109718,
     "native_chars": 489893,
     "best_chars": 94932,
@@ -525,7 +525,7 @@
       "u/l": 106108
     },
     "roundtrip_candidates": 35,
-    "seconds": 22.359
+    "seconds": 21.741
   },
   {
     "source_id": "-MIMpsZJa9WHxI4H6fcD",
@@ -543,7 +543,7 @@
     "rank": 0,
     "eligible_pages": 109,
     "page_count": 1,
-    "implementation_sha256": "019ee4daa52c6177effba3b379f44639503084d1deb6dc84a60b8c05510f3dfc",
+    "implementation_sha256": "02d6412566f097636f732e01306b59453bb71cfe4ab952b2f68e2ed3147995ca",
     "previous_chars": 873,
     "native_chars": 1125,
     "best_chars": 873,
@@ -636,7 +636,7 @@
       "u/l": 1089
     },
     "roundtrip_candidates": 35,
-    "seconds": 0.191
+    "seconds": 0.2
   },
   {
     "source_id": "-MIMpsZJa9WHxI4H6fcD",
@@ -654,7 +654,7 @@
     "rank": 27,
     "eligible_pages": 109,
     "page_count": 1,
-    "implementation_sha256": "019ee4daa52c6177effba3b379f44639503084d1deb6dc84a60b8c05510f3dfc",
+    "implementation_sha256": "02d6412566f097636f732e01306b59453bb71cfe4ab952b2f68e2ed3147995ca",
     "previous_chars": 1133,
     "native_chars": 2217,
     "best_chars": 1084,
@@ -747,7 +747,7 @@
       "u/l": 1222
     },
     "roundtrip_candidates": 35,
-    "seconds": 0.213
+    "seconds": 0.225
   },
   {
     "source_id": "-MIMpsZJa9WHxI4H6fcD",
@@ -765,7 +765,7 @@
     "rank": 54,
     "eligible_pages": 109,
     "page_count": 1,
-    "implementation_sha256": "019ee4daa52c6177effba3b379f44639503084d1deb6dc84a60b8c05510f3dfc",
+    "implementation_sha256": "02d6412566f097636f732e01306b59453bb71cfe4ab952b2f68e2ed3147995ca",
     "previous_chars": 1928,
     "native_chars": 3965,
     "best_chars": 1692,
@@ -858,7 +858,7 @@
       "u/l": 1964
     },
     "roundtrip_candidates": 35,
-    "seconds": 0.286
+    "seconds": 0.29
   },
   {
     "source_id": "-MIMpsZJa9WHxI4H6fcD",
@@ -876,7 +876,7 @@
     "rank": 81,
     "eligible_pages": 109,
     "page_count": 1,
-    "implementation_sha256": "019ee4daa52c6177effba3b379f44639503084d1deb6dc84a60b8c05510f3dfc",
+    "implementation_sha256": "02d6412566f097636f732e01306b59453bb71cfe4ab952b2f68e2ed3147995ca",
     "previous_chars": 1622,
     "native_chars": 5293,
     "best_chars": 1336,
@@ -969,7 +969,7 @@
       "u/l": 1516
     },
     "roundtrip_candidates": 35,
-    "seconds": 0.284
+    "seconds": 0.288
   },
   {
     "source_id": "-MIMpsZJa9WHxI4H6fcD",
@@ -987,7 +987,7 @@
     "rank": 108,
     "eligible_pages": 109,
     "page_count": 1,
-    "implementation_sha256": "019ee4daa52c6177effba3b379f44639503084d1deb6dc84a60b8c05510f3dfc",
+    "implementation_sha256": "02d6412566f097636f732e01306b59453bb71cfe4ab952b2f68e2ed3147995ca",
     "previous_chars": 1145,
     "native_chars": 50149,
     "best_chars": 1101,
@@ -1114,7 +1114,7 @@
       "u/l": 1516
     },
     "roundtrip_candidates": 35,
-    "seconds": 2.512
+    "seconds": 2.458
   },
   {
     "source_id": "-ML5RsMXhj7tnbbzs02H",
@@ -1126,7 +1126,7 @@
     "key": "-ML5RsMXhj7tnbbzs02H/whole",
     "source_chars": 214821,
     "page_count": 184,
-    "implementation_sha256": "019ee4daa52c6177effba3b379f44639503084d1deb6dc84a60b8c05510f3dfc",
+    "implementation_sha256": "02d6412566f097636f732e01306b59453bb71cfe4ab952b2f68e2ed3147995ca",
     "previous_chars": 60969,
     "native_chars": 214821,
     "best_chars": 54454,
@@ -1231,7 +1231,7 @@
       "u/l": 62321
     },
     "roundtrip_candidates": 35,
-    "seconds": 8.981
+    "seconds": 8.648
   },
   {
     "source_id": "-ML5RsMXhj7tnbbzs02H",
@@ -1249,7 +1249,7 @@
     "rank": 0,
     "eligible_pages": 157,
     "page_count": 1,
-    "implementation_sha256": "019ee4daa52c6177effba3b379f44639503084d1deb6dc84a60b8c05510f3dfc",
+    "implementation_sha256": "02d6412566f097636f732e01306b59453bb71cfe4ab952b2f68e2ed3147995ca",
     "previous_chars": 462,
     "native_chars": 665,
     "best_chars": 462,
@@ -1342,7 +1342,7 @@
       "u/l": 641
     },
     "roundtrip_candidates": 35,
-    "seconds": 0.168
+    "seconds": 0.177
   },
   {
     "source_id": "-ML5RsMXhj7tnbbzs02H",
@@ -1360,7 +1360,7 @@
     "rank": 39,
     "eligible_pages": 157,
     "page_count": 1,
-    "implementation_sha256": "019ee4daa52c6177effba3b379f44639503084d1deb6dc84a60b8c05510f3dfc",
+    "implementation_sha256": "02d6412566f097636f732e01306b59453bb71cfe4ab952b2f68e2ed3147995ca",
     "previous_chars": 637,
     "native_chars": 961,
     "best_chars": 637,
@@ -1453,7 +1453,7 @@
       "u/l": 790
     },
     "roundtrip_candidates": 35,
-    "seconds": 0.172
+    "seconds": 0.179
   },
   {
     "source_id": "-ML5RsMXhj7tnbbzs02H",
@@ -1471,7 +1471,7 @@
     "rank": 78,
     "eligible_pages": 157,
     "page_count": 1,
-    "implementation_sha256": "019ee4daa52c6177effba3b379f44639503084d1deb6dc84a60b8c05510f3dfc",
+    "implementation_sha256": "02d6412566f097636f732e01306b59453bb71cfe4ab952b2f68e2ed3147995ca",
     "previous_chars": 568,
     "native_chars": 1081,
     "best_chars": 568,
@@ -1564,7 +1564,7 @@
       "u/l": 732
     },
     "roundtrip_candidates": 35,
-    "seconds": 0.174
+    "seconds": 0.186
   },
   {
     "source_id": "-ML5RsMXhj7tnbbzs02H",
@@ -1582,7 +1582,7 @@
     "rank": 117,
     "eligible_pages": 157,
     "page_count": 1,
-    "implementation_sha256": "019ee4daa52c6177effba3b379f44639503084d1deb6dc84a60b8c05510f3dfc",
+    "implementation_sha256": "02d6412566f097636f732e01306b59453bb71cfe4ab952b2f68e2ed3147995ca",
     "previous_chars": 766,
     "native_chars": 1541,
     "best_chars": 766,
@@ -1675,7 +1675,7 @@
       "u/l": 961
     },
     "roundtrip_candidates": 35,
-    "seconds": 0.184
+    "seconds": 0.198
   },
   {
     "source_id": "-ML5RsMXhj7tnbbzs02H",
@@ -1693,7 +1693,7 @@
     "rank": 156,
     "eligible_pages": 157,
     "page_count": 1,
-    "implementation_sha256": "019ee4daa52c6177effba3b379f44639503084d1deb6dc84a60b8c05510f3dfc",
+    "implementation_sha256": "02d6412566f097636f732e01306b59453bb71cfe4ab952b2f68e2ed3147995ca",
     "previous_chars": 7569,
     "native_chars": 60981,
     "best_chars": 6673,
@@ -1786,7 +1786,7 @@
       "u/l": 6844
     },
     "roundtrip_candidates": 35,
-    "seconds": 1.681
+    "seconds": 1.66
   },
   {
     "source_id": "-Ln7bpxs1Mmtyv9yx8x5",
@@ -1798,7 +1798,7 @@
     "key": "-Ln7bpxs1Mmtyv9yx8x5/whole",
     "source_chars": 467309,
     "page_count": 7,
-    "implementation_sha256": "019ee4daa52c6177effba3b379f44639503084d1deb6dc84a60b8c05510f3dfc",
+    "implementation_sha256": "02d6412566f097636f732e01306b59453bb71cfe4ab952b2f68e2ed3147995ca",
     "previous_chars": 76070,
     "native_chars": 467309,
     "best_chars": 70572,
@@ -2024,7 +2024,7 @@
       "u/l": 110438
     },
     "roundtrip_candidates": 35,
-    "seconds": 19.08
+    "seconds": 19.207
   },
   {
     "source_id": "-Ln7bpxs1Mmtyv9yx8x5",
@@ -2041,7 +2041,7 @@
     "rank": 0,
     "eligible_pages": 7,
     "page_count": 1,
-    "implementation_sha256": "019ee4daa52c6177effba3b379f44639503084d1deb6dc84a60b8c05510f3dfc",
+    "implementation_sha256": "02d6412566f097636f732e01306b59453bb71cfe4ab952b2f68e2ed3147995ca",
     "previous_chars": 5324,
     "native_chars": 24345,
     "best_chars": 5012,
@@ -2168,7 +2168,7 @@
       "u/l": 7873
     },
     "roundtrip_candidates": 35,
-    "seconds": 0.834
+    "seconds": 0.827
   },
   {
     "source_id": "-Ln7bpxs1Mmtyv9yx8x5",
@@ -2185,7 +2185,7 @@
     "rank": 2,
     "eligible_pages": 7,
     "page_count": 1,
-    "implementation_sha256": "019ee4daa52c6177effba3b379f44639503084d1deb6dc84a60b8c05510f3dfc",
+    "implementation_sha256": "02d6412566f097636f732e01306b59453bb71cfe4ab952b2f68e2ed3147995ca",
     "previous_chars": 21869,
     "native_chars": 77261,
     "best_chars": 21378,
@@ -2301,7 +2301,7 @@
       "u/l": 29681
     },
     "roundtrip_candidates": 35,
-    "seconds": 3.34
+    "seconds": 3.467
   },
   {
     "source_id": "-Ln7bpxs1Mmtyv9yx8x5",
@@ -2318,7 +2318,7 @@
     "rank": 3,
     "eligible_pages": 7,
     "page_count": 1,
-    "implementation_sha256": "019ee4daa52c6177effba3b379f44639503084d1deb6dc84a60b8c05510f3dfc",
+    "implementation_sha256": "02d6412566f097636f732e01306b59453bb71cfe4ab952b2f68e2ed3147995ca",
     "previous_chars": 20098,
     "native_chars": 78941,
     "best_chars": 19533,
@@ -2445,7 +2445,7 @@
       "u/l": 27980
     },
     "roundtrip_candidates": 35,
-    "seconds": 3.408
+    "seconds": 3.434
   },
   {
     "source_id": "-Ln7bpxs1Mmtyv9yx8x5",
@@ -2462,7 +2462,7 @@
     "rank": 4,
     "eligible_pages": 7,
     "page_count": 1,
-    "implementation_sha256": "019ee4daa52c6177effba3b379f44639503084d1deb6dc84a60b8c05510f3dfc",
+    "implementation_sha256": "02d6412566f097636f732e01306b59453bb71cfe4ab952b2f68e2ed3147995ca",
     "previous_chars": 18693,
     "native_chars": 76145,
     "best_chars": 18238,
@@ -2589,7 +2589,7 @@
       "u/l": 26332
     },
     "roundtrip_candidates": 35,
-    "seconds": 3.209
+    "seconds": 3.237
   },
   {
     "source_id": "-Ln7bpxs1Mmtyv9yx8x5",
@@ -2606,7 +2606,7 @@
     "rank": 6,
     "eligible_pages": 7,
     "page_count": 1,
-    "implementation_sha256": "019ee4daa52c6177effba3b379f44639503084d1deb6dc84a60b8c05510f3dfc",
+    "implementation_sha256": "02d6412566f097636f732e01306b59453bb71cfe4ab952b2f68e2ed3147995ca",
     "previous_chars": 18220,
     "native_chars": 79217,
     "best_chars": 17701,
@@ -2733,7 +2733,7 @@
       "u/l": 26172
     },
     "roundtrip_candidates": 35,
-    "seconds": 3.123
+    "seconds": 3.12
   },
   {
     "source_id": "-MQ9-6LlT_g5PGsGXkyX",
@@ -2745,7 +2745,7 @@
     "key": "-MQ9-6LlT_g5PGsGXkyX/whole",
     "source_chars": 10545,
     "page_count": 1,
-    "implementation_sha256": "019ee4daa52c6177effba3b379f44639503084d1deb6dc84a60b8c05510f3dfc",
+    "implementation_sha256": "02d6412566f097636f732e01306b59453bb71cfe4ab952b2f68e2ed3147995ca",
     "previous_chars": 3665,
     "native_chars": 10545,
     "best_chars": 3276,
@@ -2838,7 +2838,7 @@
       "u/l": 3457
     },
     "roundtrip_candidates": 35,
-    "seconds": 0.483
+    "seconds": 0.487
   },
   {
     "source_id": "-K_Me61B1oQ_Dmjbde9B",
@@ -2850,7 +2850,7 @@
     "key": "-K_Me61B1oQ_Dmjbde9B/whole",
     "source_chars": 2885,
     "page_count": 1,
-    "implementation_sha256": "019ee4daa52c6177effba3b379f44639503084d1deb6dc84a60b8c05510f3dfc",
+    "implementation_sha256": "02d6412566f097636f732e01306b59453bb71cfe4ab952b2f68e2ed3147995ca",
     "previous_chars": 1388,
     "native_chars": 2885,
     "best_chars": 1388,
@@ -2943,7 +2943,7 @@
       "u/l": 1548
     },
     "roundtrip_candidates": 35,
-    "seconds": 0.229
+    "seconds": 0.26
   },
   {
     "source_id": "-Kp6dxRcQbpr7UrzJC6x",
@@ -2955,7 +2955,7 @@
     "key": "-Kp6dxRcQbpr7UrzJC6x/whole",
     "source_chars": 2697,
     "page_count": 2,
-    "implementation_sha256": "019ee4daa52c6177effba3b379f44639503084d1deb6dc84a60b8c05510f3dfc",
+    "implementation_sha256": "02d6412566f097636f732e01306b59453bb71cfe4ab952b2f68e2ed3147995ca",
     "previous_chars": 1290,
     "native_chars": 2697,
     "best_chars": 1284,
@@ -3048,7 +3048,7 @@
       "u/l": 1601
     },
     "roundtrip_candidates": 35,
-    "seconds": 0.235
+    "seconds": 0.26
   },
   {
     "source_id": "-Kp6dxRcQbpr7UrzJC6x",
@@ -3065,7 +3065,7 @@
     "rank": 0,
     "eligible_pages": 2,
     "page_count": 1,
-    "implementation_sha256": "019ee4daa52c6177effba3b379f44639503084d1deb6dc84a60b8c05510f3dfc",
+    "implementation_sha256": "02d6412566f097636f732e01306b59453bb71cfe4ab952b2f68e2ed3147995ca",
     "previous_chars": 590,
     "native_chars": 1205,
     "best_chars": 590,
@@ -3158,7 +3158,7 @@
       "u/l": 716
     },
     "roundtrip_candidates": 35,
-    "seconds": 0.182
+    "seconds": 0.185
   },
   {
     "source_id": "-Kp6dxRcQbpr7UrzJC6x",
@@ -3175,7 +3175,7 @@
     "rank": 1,
     "eligible_pages": 2,
     "page_count": 1,
-    "implementation_sha256": "019ee4daa52c6177effba3b379f44639503084d1deb6dc84a60b8c05510f3dfc",
+    "implementation_sha256": "02d6412566f097636f732e01306b59453bb71cfe4ab952b2f68e2ed3147995ca",
     "previous_chars": 850,
     "native_chars": 1737,
     "best_chars": 850,
@@ -3268,7 +3268,7 @@
       "u/l": 993
     },
     "roundtrip_candidates": 35,
-    "seconds": 0.207
+    "seconds": 0.204
   },
   {
     "source_id": "-LrxBIuzRGB9jKLgPRqH",
@@ -3280,7 +3280,7 @@
     "key": "-LrxBIuzRGB9jKLgPRqH/whole",
     "source_chars": 75985,
     "page_count": 45,
-    "implementation_sha256": "019ee4daa52c6177effba3b379f44639503084d1deb6dc84a60b8c05510f3dfc",
+    "implementation_sha256": "02d6412566f097636f732e01306b59453bb71cfe4ab952b2f68e2ed3147995ca",
     "previous_chars": 24108,
     "native_chars": 68381,
     "best_chars": 20550,
@@ -3538,7 +3538,7 @@
       "u/l": 23462
     },
     "roundtrip_candidates": 35,
-    "seconds": 2.555
+    "seconds": 2.566
   },
   {
     "source_id": "-LrxBIuzRGB9jKLgPRqH",
@@ -3555,7 +3555,7 @@
     "rank": 0,
     "eligible_pages": 39,
     "page_count": 1,
-    "implementation_sha256": "019ee4daa52c6177effba3b379f44639503084d1deb6dc84a60b8c05510f3dfc",
+    "implementation_sha256": "02d6412566f097636f732e01306b59453bb71cfe4ab952b2f68e2ed3147995ca",
     "previous_chars": 488,
     "native_chars": 713,
     "best_chars": 488,
@@ -3665,7 +3665,7 @@
     "rank": 10,
     "eligible_pages": 39,
     "page_count": 1,
-    "implementation_sha256": "019ee4daa52c6177effba3b379f44639503084d1deb6dc84a60b8c05510f3dfc",
+    "implementation_sha256": "02d6412566f097636f732e01306b59453bb71cfe4ab952b2f68e2ed3147995ca",
     "previous_chars": 712,
     "native_chars": 1321,
     "best_chars": 712,
@@ -3758,7 +3758,7 @@
       "u/l": 876
     },
     "roundtrip_candidates": 35,
-    "seconds": 0.186
+    "seconds": 0.189
   },
   {
     "source_id": "-LrxBIuzRGB9jKLgPRqH",
@@ -3775,7 +3775,7 @@
     "rank": 19,
     "eligible_pages": 39,
     "page_count": 1,
-    "implementation_sha256": "019ee4daa52c6177effba3b379f44639503084d1deb6dc84a60b8c05510f3dfc",
+    "implementation_sha256": "02d6412566f097636f732e01306b59453bb71cfe4ab952b2f68e2ed3147995ca",
     "previous_chars": 1072,
     "native_chars": 1977,
     "best_chars": 1072,
@@ -3868,7 +3868,7 @@
       "u/l": 1228
     },
     "roundtrip_candidates": 35,
-    "seconds": 0.204
+    "seconds": 0.205
   },
   {
     "source_id": "-LrxBIuzRGB9jKLgPRqH",
@@ -3885,7 +3885,7 @@
     "rank": 28,
     "eligible_pages": 39,
     "page_count": 1,
-    "implementation_sha256": "019ee4daa52c6177effba3b379f44639503084d1deb6dc84a60b8c05510f3dfc",
+    "implementation_sha256": "02d6412566f097636f732e01306b59453bb71cfe4ab952b2f68e2ed3147995ca",
     "previous_chars": 1062,
     "native_chars": 2781,
     "best_chars": 908,
@@ -4001,7 +4001,7 @@
       "u/l": 1089
     },
     "roundtrip_candidates": 35,
-    "seconds": 0.216
+    "seconds": 0.225
   },
   {
     "source_id": "-LrxBIuzRGB9jKLgPRqH",
@@ -4018,7 +4018,7 @@
     "rank": 38,
     "eligible_pages": 39,
     "page_count": 1,
-    "implementation_sha256": "019ee4daa52c6177effba3b379f44639503084d1deb6dc84a60b8c05510f3dfc",
+    "implementation_sha256": "02d6412566f097636f732e01306b59453bb71cfe4ab952b2f68e2ed3147995ca",
     "previous_chars": 1828,
     "native_chars": 5037,
     "best_chars": 1280,
@@ -4134,7 +4134,7 @@
       "u/l": 1468
     },
     "roundtrip_candidates": 35,
-    "seconds": 0.275
+    "seconds": 0.288
   },
   {
     "source_id": "-OLexShcZSLG8qYkOLiy",
@@ -4151,7 +4151,7 @@
     "rank": 0,
     "eligible_pages": 397,
     "page_count": 1,
-    "implementation_sha256": "019ee4daa52c6177effba3b379f44639503084d1deb6dc84a60b8c05510f3dfc",
+    "implementation_sha256": "02d6412566f097636f732e01306b59453bb71cfe4ab952b2f68e2ed3147995ca",
     "previous_chars": 442,
     "native_chars": 713,
     "best_chars": 421,
@@ -4244,7 +4244,7 @@
       "u/l": 513
     },
     "roundtrip_candidates": 35,
-    "seconds": 0.171
+    "seconds": 0.173
   },
   {
     "source_id": "-OLexShcZSLG8qYkOLiy",
@@ -4262,7 +4262,7 @@
     "rank": 99,
     "eligible_pages": 397,
     "page_count": 1,
-    "implementation_sha256": "019ee4daa52c6177effba3b379f44639503084d1deb6dc84a60b8c05510f3dfc",
+    "implementation_sha256": "02d6412566f097636f732e01306b59453bb71cfe4ab952b2f68e2ed3147995ca",
     "previous_chars": 2386,
     "native_chars": 3301,
     "best_chars": 2382,
@@ -4355,7 +4355,7 @@
       "u/l": 2593
     },
     "roundtrip_candidates": 35,
-    "seconds": 0.66
+    "seconds": 0.679
   },
   {
     "source_id": "-OLexShcZSLG8qYkOLiy",
@@ -4373,7 +4373,7 @@
     "rank": 198,
     "eligible_pages": 397,
     "page_count": 1,
-    "implementation_sha256": "019ee4daa52c6177effba3b379f44639503084d1deb6dc84a60b8c05510f3dfc",
+    "implementation_sha256": "02d6412566f097636f732e01306b59453bb71cfe4ab952b2f68e2ed3147995ca",
     "previous_chars": 4146,
     "native_chars": 12205,
     "best_chars": 3852,
@@ -4466,7 +4466,7 @@
       "u/l": 4017
     },
     "roundtrip_candidates": 35,
-    "seconds": 0.46
+    "seconds": 0.469
   },
   {
     "source_id": "-OLexShcZSLG8qYkOLiy",
@@ -4484,7 +4484,7 @@
     "rank": 297,
     "eligible_pages": 397,
     "page_count": 1,
-    "implementation_sha256": "019ee4daa52c6177effba3b379f44639503084d1deb6dc84a60b8c05510f3dfc",
+    "implementation_sha256": "02d6412566f097636f732e01306b59453bb71cfe4ab952b2f68e2ed3147995ca",
     "previous_chars": 5038,
     "native_chars": 16925,
     "best_chars": 4920,
@@ -4577,7 +4577,7 @@
       "u/l": 5009
     },
     "roundtrip_candidates": 35,
-    "seconds": 0.602
+    "seconds": 0.605
   },
   {
     "source_id": "-OLexShcZSLG8qYkOLiy",
@@ -4595,7 +4595,7 @@
     "rank": 396,
     "eligible_pages": 397,
     "page_count": 1,
-    "implementation_sha256": "019ee4daa52c6177effba3b379f44639503084d1deb6dc84a60b8c05510f3dfc",
+    "implementation_sha256": "02d6412566f097636f732e01306b59453bb71cfe4ab952b2f68e2ed3147995ca",
     "previous_chars": 30790,
     "native_chars": 108653,
     "best_chars": 27413,
@@ -4688,7 +4688,7 @@
       "u/l": 27958
     },
     "roundtrip_candidates": 35,
-    "seconds": 4.257
+    "seconds": 4.433
   },
   {
     "source_id": "-OX4QBKmwEZ6dIBJY5C5",
@@ -4700,7 +4700,7 @@
     "key": "-OX4QBKmwEZ6dIBJY5C5/whole",
     "source_chars": 91889,
     "page_count": 1,
-    "implementation_sha256": "019ee4daa52c6177effba3b379f44639503084d1deb6dc84a60b8c05510f3dfc",
+    "implementation_sha256": "02d6412566f097636f732e01306b59453bb71cfe4ab952b2f68e2ed3147995ca",
     "previous_chars": 23712,
     "native_chars": 91889,
     "best_chars": 22676,
@@ -4793,7 +4793,7 @@
       "u/l": 23078
     },
     "roundtrip_candidates": 35,
-    "seconds": 5.029
+    "seconds": 4.197
   },
   {
     "source_id": "-OFo0h6eKudNzNzkh9zL",
@@ -4805,7 +4805,7 @@
     "key": "-OFo0h6eKudNzNzkh9zL/whole",
     "source_chars": 16141,
     "page_count": 1,
-    "implementation_sha256": "019ee4daa52c6177effba3b379f44639503084d1deb6dc84a60b8c05510f3dfc",
+    "implementation_sha256": "02d6412566f097636f732e01306b59453bb71cfe4ab952b2f68e2ed3147995ca",
     "previous_chars": 8181,
     "native_chars": 16141,
     "best_chars": 7166,
@@ -4921,7 +4921,7 @@
       "u/l": 7676
     },
     "roundtrip_candidates": 35,
-    "seconds": 1.764
+    "seconds": 1.338
   },
   {
     "source_id": "-OL_E6IO4gmQUdqFgTjq",
@@ -4933,7 +4933,7 @@
     "key": "-OL_E6IO4gmQUdqFgTjq/whole",
     "source_chars": 53617,
     "page_count": 8,
-    "implementation_sha256": "019ee4daa52c6177effba3b379f44639503084d1deb6dc84a60b8c05510f3dfc",
+    "implementation_sha256": "02d6412566f097636f732e01306b59453bb71cfe4ab952b2f68e2ed3147995ca",
     "previous_chars": 19369,
     "native_chars": 53617,
     "best_chars": 17154,
@@ -5026,7 +5026,7 @@
       "u/l": 17825
     },
     "roundtrip_candidates": 35,
-    "seconds": 3.467
+    "seconds": 2.56
   },
   {
     "source_id": "-OL_E6IO4gmQUdqFgTjq",
@@ -5043,7 +5043,7 @@
     "rank": 0,
     "eligible_pages": 8,
     "page_count": 1,
-    "implementation_sha256": "019ee4daa52c6177effba3b379f44639503084d1deb6dc84a60b8c05510f3dfc",
+    "implementation_sha256": "02d6412566f097636f732e01306b59453bb71cfe4ab952b2f68e2ed3147995ca",
     "previous_chars": 3130,
     "native_chars": 5905,
     "best_chars": 3076,
@@ -5136,7 +5136,7 @@
       "u/l": 3334
     },
     "roundtrip_candidates": 35,
-    "seconds": 0.448
+    "seconds": 0.339
   },
   {
     "source_id": "-OL_E6IO4gmQUdqFgTjq",
@@ -5153,7 +5153,7 @@
     "rank": 2,
     "eligible_pages": 8,
     "page_count": 1,
-    "implementation_sha256": "019ee4daa52c6177effba3b379f44639503084d1deb6dc84a60b8c05510f3dfc",
+    "implementation_sha256": "02d6412566f097636f732e01306b59453bb71cfe4ab952b2f68e2ed3147995ca",
     "previous_chars": 3244,
     "native_chars": 6237,
     "best_chars": 3190,
@@ -5246,7 +5246,7 @@
       "u/l": 3377
     },
     "roundtrip_candidates": 35,
-    "seconds": 0.475
+    "seconds": 0.355
   },
   {
     "source_id": "-OL_E6IO4gmQUdqFgTjq",
@@ -5263,7 +5263,7 @@
     "rank": 4,
     "eligible_pages": 8,
     "page_count": 1,
-    "implementation_sha256": "019ee4daa52c6177effba3b379f44639503084d1deb6dc84a60b8c05510f3dfc",
+    "implementation_sha256": "02d6412566f097636f732e01306b59453bb71cfe4ab952b2f68e2ed3147995ca",
     "previous_chars": 3518,
     "native_chars": 7073,
     "best_chars": 3429,
@@ -5356,7 +5356,7 @@
       "u/l": 3628
     },
     "roundtrip_candidates": 35,
-    "seconds": 0.494
+    "seconds": 0.378
   },
   {
     "source_id": "-OL_E6IO4gmQUdqFgTjq",
@@ -5373,7 +5373,7 @@
     "rank": 5,
     "eligible_pages": 8,
     "page_count": 1,
-    "implementation_sha256": "019ee4daa52c6177effba3b379f44639503084d1deb6dc84a60b8c05510f3dfc",
+    "implementation_sha256": "02d6412566f097636f732e01306b59453bb71cfe4ab952b2f68e2ed3147995ca",
     "previous_chars": 4130,
     "native_chars": 8133,
     "best_chars": 4109,
@@ -5466,7 +5466,7 @@
       "u/l": 4278
     },
     "roundtrip_candidates": 35,
-    "seconds": 0.532
+    "seconds": 0.393
   },
   {
     "source_id": "-OL_E6IO4gmQUdqFgTjq",
@@ -5483,7 +5483,7 @@
     "rank": 7,
     "eligible_pages": 8,
     "page_count": 1,
-    "implementation_sha256": "019ee4daa52c6177effba3b379f44639503084d1deb6dc84a60b8c05510f3dfc",
+    "implementation_sha256": "02d6412566f097636f732e01306b59453bb71cfe4ab952b2f68e2ed3147995ca",
     "previous_chars": 4156,
     "native_chars": 8817,
     "best_chars": 3857,
@@ -5576,7 +5576,7 @@
       "u/l": 4070
     },
     "roundtrip_candidates": 35,
-    "seconds": 0.568
+    "seconds": 0.419
   },
   {
     "source_id": "-OglzvHBH0h-t8JIZKyF",
@@ -5594,7 +5594,7 @@
     "rank": 0,
     "eligible_pages": 170,
     "page_count": 1,
-    "implementation_sha256": "019ee4daa52c6177effba3b379f44639503084d1deb6dc84a60b8c05510f3dfc",
+    "implementation_sha256": "02d6412566f097636f732e01306b59453bb71cfe4ab952b2f68e2ed3147995ca",
     "previous_chars": 544,
     "native_chars": 733,
     "best_chars": 544,
@@ -5687,7 +5687,7 @@
       "u/l": 673
     },
     "roundtrip_candidates": 35,
-    "seconds": 0.217
+    "seconds": 0.169
   },
   {
     "source_id": "-OglzvHBH0h-t8JIZKyF",
@@ -5705,7 +5705,7 @@
     "rank": 42,
     "eligible_pages": 170,
     "page_count": 1,
-    "implementation_sha256": "019ee4daa52c6177effba3b379f44639503084d1deb6dc84a60b8c05510f3dfc",
+    "implementation_sha256": "02d6412566f097636f732e01306b59453bb71cfe4ab952b2f68e2ed3147995ca",
     "previous_chars": 1877,
     "native_chars": 3033,
     "best_chars": 1712,
@@ -5798,7 +5798,7 @@
       "u/l": 1974
     },
     "roundtrip_candidates": 35,
-    "seconds": 0.53
+    "seconds": 0.387
   },
   {
     "source_id": "-OglzvHBH0h-t8JIZKyF",
@@ -5816,7 +5816,7 @@
     "rank": 84,
     "eligible_pages": 170,
     "page_count": 1,
-    "implementation_sha256": "019ee4daa52c6177effba3b379f44639503084d1deb6dc84a60b8c05510f3dfc",
+    "implementation_sha256": "02d6412566f097636f732e01306b59453bb71cfe4ab952b2f68e2ed3147995ca",
     "previous_chars": 1344,
     "native_chars": 2501,
     "best_chars": 1344,
@@ -5909,7 +5909,7 @@
       "u/l": 1574
     },
     "roundtrip_candidates": 35,
-    "seconds": 0.279
+    "seconds": 0.217
   },
   {
     "source_id": "-OglzvHBH0h-t8JIZKyF",
@@ -5927,7 +5927,7 @@
     "rank": 127,
     "eligible_pages": 170,
     "page_count": 1,
-    "implementation_sha256": "019ee4daa52c6177effba3b379f44639503084d1deb6dc84a60b8c05510f3dfc",
+    "implementation_sha256": "02d6412566f097636f732e01306b59453bb71cfe4ab952b2f68e2ed3147995ca",
     "previous_chars": 1524,
     "native_chars": 3701,
     "best_chars": 1524,
@@ -6020,7 +6020,7 @@
       "u/l": 1692
     },
     "roundtrip_candidates": 35,
-    "seconds": 0.315
+    "seconds": 0.242
   },
   {
     "source_id": "-OglzvHBH0h-t8JIZKyF",
@@ -6038,7 +6038,7 @@
     "rank": 169,
     "eligible_pages": 170,
     "page_count": 1,
-    "implementation_sha256": "019ee4daa52c6177effba3b379f44639503084d1deb6dc84a60b8c05510f3dfc",
+    "implementation_sha256": "02d6412566f097636f732e01306b59453bb71cfe4ab952b2f68e2ed3147995ca",
     "previous_chars": 12898,
     "native_chars": 87749,
     "best_chars": 12137,
@@ -6143,7 +6143,7 @@
       "u/l": 15292
     },
     "roundtrip_candidates": 35,
-    "seconds": 5.759
+    "seconds": 4.482
   },
   {
     "source_id": "-OBdq3vJ2slIWEDAXEeM",
@@ -6155,7 +6155,7 @@
     "key": "-OBdq3vJ2slIWEDAXEeM/whole",
     "source_chars": 695609,
     "page_count": 149,
-    "implementation_sha256": "019ee4daa52c6177effba3b379f44639503084d1deb6dc84a60b8c05510f3dfc",
+    "implementation_sha256": "02d6412566f097636f732e01306b59453bb71cfe4ab952b2f68e2ed3147995ca",
     "previous_chars": 154521,
     "native_chars": 695609,
     "best_chars": 144994,
@@ -6478,7 +6478,7 @@
       "u/l": 195894
     },
     "roundtrip_candidates": 35,
-    "seconds": 32.647
+    "seconds": 32.707
   },
   {
     "source_id": "-OBdq3vJ2slIWEDAXEeM",
@@ -6496,7 +6496,7 @@
     "rank": 0,
     "eligible_pages": 133,
     "page_count": 1,
-    "implementation_sha256": "019ee4daa52c6177effba3b379f44639503084d1deb6dc84a60b8c05510f3dfc",
+    "implementation_sha256": "02d6412566f097636f732e01306b59453bb71cfe4ab952b2f68e2ed3147995ca",
     "previous_chars": 1854,
     "native_chars": 2345,
     "best_chars": 1801,
@@ -6589,7 +6589,7 @@
       "u/l": 2065
     },
     "roundtrip_candidates": 35,
-    "seconds": 0.291
+    "seconds": 0.293
   },
   {
     "source_id": "-OBdq3vJ2slIWEDAXEeM",
@@ -6607,7 +6607,7 @@
     "rank": 33,
     "eligible_pages": 133,
     "page_count": 1,
-    "implementation_sha256": "019ee4daa52c6177effba3b379f44639503084d1deb6dc84a60b8c05510f3dfc",
+    "implementation_sha256": "02d6412566f097636f732e01306b59453bb71cfe4ab952b2f68e2ed3147995ca",
     "previous_chars": 942,
     "native_chars": 1561,
     "best_chars": 902,
@@ -6700,7 +6700,7 @@
       "u/l": 1105
     },
     "roundtrip_candidates": 35,
-    "seconds": 0.196
+    "seconds": 0.198
   },
   {
     "source_id": "-OBdq3vJ2slIWEDAXEeM",
@@ -6718,7 +6718,7 @@
     "rank": 66,
     "eligible_pages": 133,
     "page_count": 1,
-    "implementation_sha256": "019ee4daa52c6177effba3b379f44639503084d1deb6dc84a60b8c05510f3dfc",
+    "implementation_sha256": "02d6412566f097636f732e01306b59453bb71cfe4ab952b2f68e2ed3147995ca",
     "previous_chars": 1150,
     "native_chars": 2669,
     "best_chars": 1114,
@@ -6834,7 +6834,7 @@
       "u/l": 1292
     },
     "roundtrip_candidates": 35,
-    "seconds": 0.233
+    "seconds": 0.236
   },
   {
     "source_id": "-OBdq3vJ2slIWEDAXEeM",
@@ -6852,7 +6852,7 @@
     "rank": 99,
     "eligible_pages": 133,
     "page_count": 1,
-    "implementation_sha256": "019ee4daa52c6177effba3b379f44639503084d1deb6dc84a60b8c05510f3dfc",
+    "implementation_sha256": "02d6412566f097636f732e01306b59453bb71cfe4ab952b2f68e2ed3147995ca",
     "previous_chars": 2834,
     "native_chars": 5765,
     "best_chars": 2754,
@@ -6945,7 +6945,7 @@
       "u/l": 3036
     },
     "roundtrip_candidates": 35,
-    "seconds": 0.331
+    "seconds": 0.336
   },
   {
     "source_id": "-OBdq3vJ2slIWEDAXEeM",
@@ -6963,7 +6963,7 @@
     "rank": 132,
     "eligible_pages": 133,
     "page_count": 1,
-    "implementation_sha256": "019ee4daa52c6177effba3b379f44639503084d1deb6dc84a60b8c05510f3dfc",
+    "implementation_sha256": "02d6412566f097636f732e01306b59453bb71cfe4ab952b2f68e2ed3147995ca",
     "previous_chars": 19454,
     "native_chars": 94521,
     "best_chars": 18149,
@@ -7056,7 +7056,7 @@
       "u/l": 18732
     },
     "roundtrip_candidates": 35,
-    "seconds": 3.88
+    "seconds": 3.83
   },
   {
     "source_id": "-LI0gc-a-2_VLWR-tx1d",
@@ -7068,7 +7068,7 @@
     "key": "-LI0gc-a-2_VLWR-tx1d/whole",
     "source_chars": 68313,
     "page_count": 45,
-    "implementation_sha256": "019ee4daa52c6177effba3b379f44639503084d1deb6dc84a60b8c05510f3dfc",
+    "implementation_sha256": "02d6412566f097636f732e01306b59453bb71cfe4ab952b2f68e2ed3147995ca",
     "previous_chars": 24092,
     "native_chars": 68313,
     "best_chars": 20550,
@@ -7326,7 +7326,7 @@
       "u/l": 23420
     },
     "roundtrip_candidates": 35,
-    "seconds": 2.844
+    "seconds": 2.872
   },
   {
     "source_id": "-LI0gc-a-2_VLWR-tx1d",
@@ -7343,7 +7343,7 @@
     "rank": 0,
     "eligible_pages": 39,
     "page_count": 1,
-    "implementation_sha256": "019ee4daa52c6177effba3b379f44639503084d1deb6dc84a60b8c05510f3dfc",
+    "implementation_sha256": "02d6412566f097636f732e01306b59453bb71cfe4ab952b2f68e2ed3147995ca",
     "previous_chars": 481,
     "native_chars": 705,
     "best_chars": 481,
@@ -7436,7 +7436,7 @@
       "u/l": 641
     },
     "roundtrip_candidates": 35,
-    "seconds": 0.175
+    "seconds": 0.178
   },
   {
     "source_id": "-LI0gc-a-2_VLWR-tx1d",
@@ -7453,7 +7453,7 @@
     "rank": 28,
     "eligible_pages": 39,
     "page_count": 1,
-    "implementation_sha256": "019ee4daa52c6177effba3b379f44639503084d1deb6dc84a60b8c05510f3dfc",
+    "implementation_sha256": "02d6412566f097636f732e01306b59453bb71cfe4ab952b2f68e2ed3147995ca",
     "previous_chars": 1058,
     "native_chars": 2777,
     "best_chars": 905,
@@ -7569,7 +7569,7 @@
       "u/l": 1089
     },
     "roundtrip_candidates": 35,
-    "seconds": 0.218
+    "seconds": 0.217
   },
   {
     "source_id": "-OXRxN4v1U8dwIjSO4l4",
@@ -7587,7 +7587,7 @@
     "rank": 0,
     "eligible_pages": 77,
     "page_count": 1,
-    "implementation_sha256": "019ee4daa52c6177effba3b379f44639503084d1deb6dc84a60b8c05510f3dfc",
+    "implementation_sha256": "02d6412566f097636f732e01306b59453bb71cfe4ab952b2f68e2ed3147995ca",
     "previous_chars": 853,
     "native_chars": 1117,
     "best_chars": 852,
@@ -7680,7 +7680,7 @@
       "u/l": 1020
     },
     "roundtrip_candidates": 35,
-    "seconds": 0.221
+    "seconds": 0.239
   },
   {
     "source_id": "-OXRxN4v1U8dwIjSO4l4",
@@ -7698,7 +7698,7 @@
     "rank": 19,
     "eligible_pages": 77,
     "page_count": 1,
-    "implementation_sha256": "019ee4daa52c6177effba3b379f44639503084d1deb6dc84a60b8c05510f3dfc",
+    "implementation_sha256": "02d6412566f097636f732e01306b59453bb71cfe4ab952b2f68e2ed3147995ca",
     "previous_chars": 1285,
     "native_chars": 2949,
     "best_chars": 985,
@@ -7791,7 +7791,7 @@
       "u/l": 1094
     },
     "roundtrip_candidates": 35,
-    "seconds": 0.246
+    "seconds": 0.227
   },
   {
     "source_id": "-OXRxN4v1U8dwIjSO4l4",
@@ -7809,7 +7809,7 @@
     "rank": 38,
     "eligible_pages": 77,
     "page_count": 1,
-    "implementation_sha256": "019ee4daa52c6177effba3b379f44639503084d1deb6dc84a60b8c05510f3dfc",
+    "implementation_sha256": "02d6412566f097636f732e01306b59453bb71cfe4ab952b2f68e2ed3147995ca",
     "previous_chars": 3670,
     "native_chars": 8145,
     "best_chars": 3430,
@@ -7902,7 +7902,7 @@
       "u/l": 3628
     },
     "roundtrip_candidates": 35,
-    "seconds": 0.404
+    "seconds": 0.411
   },
   {
     "source_id": "-OXRxN4v1U8dwIjSO4l4",
@@ -7920,7 +7920,7 @@
     "rank": 57,
     "eligible_pages": 77,
     "page_count": 1,
-    "implementation_sha256": "019ee4daa52c6177effba3b379f44639503084d1deb6dc84a60b8c05510f3dfc",
+    "implementation_sha256": "02d6412566f097636f732e01306b59453bb71cfe4ab952b2f68e2ed3147995ca",
     "previous_chars": 2737,
     "native_chars": 9345,
     "best_chars": 1964,
@@ -8025,7 +8025,7 @@
       "u/l": 2604
     },
     "roundtrip_candidates": 35,
-    "seconds": 0.48
+    "seconds": 0.483
   },
   {
     "source_id": "-OXRxN4v1U8dwIjSO4l4",
@@ -8043,7 +8043,7 @@
     "rank": 76,
     "eligible_pages": 77,
     "page_count": 1,
-    "implementation_sha256": "019ee4daa52c6177effba3b379f44639503084d1deb6dc84a60b8c05510f3dfc",
+    "implementation_sha256": "02d6412566f097636f732e01306b59453bb71cfe4ab952b2f68e2ed3147995ca",
     "previous_chars": 37452,
     "native_chars": 204217,
     "best_chars": 33361,
@@ -8136,7 +8136,7 @@
       "u/l": 33366
     },
     "roundtrip_candidates": 35,
-    "seconds": 6.524
+    "seconds": 6.648
   },
   {
     "source_id": "-MK-xIWwMHTIBuSh3ZWQ",
@@ -8148,7 +8148,7 @@
     "key": "-MK-xIWwMHTIBuSh3ZWQ/whole",
     "source_chars": 431953,
     "page_count": 21,
-    "implementation_sha256": "019ee4daa52c6177effba3b379f44639503084d1deb6dc84a60b8c05510f3dfc",
+    "implementation_sha256": "02d6412566f097636f732e01306b59453bb71cfe4ab952b2f68e2ed3147995ca",
     "previous_chars": 72108,
     "native_chars": 431953,
     "best_chars": 68342,
@@ -8253,7 +8253,7 @@
       "u/l": 73777
     },
     "roundtrip_candidates": 35,
-    "seconds": 18.336
+    "seconds": 18.626
   },
   {
     "source_id": "-MK-xIWwMHTIBuSh3ZWQ",
@@ -8270,7 +8270,7 @@
     "rank": 0,
     "eligible_pages": 21,
     "page_count": 1,
-    "implementation_sha256": "019ee4daa52c6177effba3b379f44639503084d1deb6dc84a60b8c05510f3dfc",
+    "implementation_sha256": "02d6412566f097636f732e01306b59453bb71cfe4ab952b2f68e2ed3147995ca",
     "previous_chars": 874,
     "native_chars": 1753,
     "best_chars": 870,
@@ -8363,7 +8363,7 @@
       "u/l": 988
     },
     "roundtrip_candidates": 35,
-    "seconds": 0.211
+    "seconds": 0.212
   },
   {
     "source_id": "-MK-xIWwMHTIBuSh3ZWQ",
@@ -8380,7 +8380,7 @@
     "rank": 5,
     "eligible_pages": 21,
     "page_count": 1,
-    "implementation_sha256": "019ee4daa52c6177effba3b379f44639503084d1deb6dc84a60b8c05510f3dfc",
+    "implementation_sha256": "02d6412566f097636f732e01306b59453bb71cfe4ab952b2f68e2ed3147995ca",
     "previous_chars": 1661,
     "native_chars": 5165,
     "best_chars": 1600,
@@ -8485,7 +8485,7 @@
       "u/l": 1969
     },
     "roundtrip_candidates": 35,
-    "seconds": 0.347
+    "seconds": 0.339
   },
   {
     "source_id": "-MK-xIWwMHTIBuSh3ZWQ",
@@ -8502,7 +8502,7 @@
     "rank": 10,
     "eligible_pages": 21,
     "page_count": 1,
-    "implementation_sha256": "019ee4daa52c6177effba3b379f44639503084d1deb6dc84a60b8c05510f3dfc",
+    "implementation_sha256": "02d6412566f097636f732e01306b59453bb71cfe4ab952b2f68e2ed3147995ca",
     "previous_chars": 3857,
     "native_chars": 9737,
     "best_chars": 3705,
@@ -8607,7 +8607,7 @@
       "u/l": 4209
     },
     "roundtrip_candidates": 35,
-    "seconds": 0.472
+    "seconds": 0.476
   },
   {
     "source_id": "-MK-xIWwMHTIBuSh3ZWQ",
@@ -8624,7 +8624,7 @@
     "rank": 15,
     "eligible_pages": 21,
     "page_count": 1,
-    "implementation_sha256": "019ee4daa52c6177effba3b379f44639503084d1deb6dc84a60b8c05510f3dfc",
+    "implementation_sha256": "02d6412566f097636f732e01306b59453bb71cfe4ab952b2f68e2ed3147995ca",
     "previous_chars": 18450,
     "native_chars": 42701,
     "best_chars": 16977,
@@ -8729,7 +8729,7 @@
       "u/l": 19036
     },
     "roundtrip_candidates": 35,
-    "seconds": 1.804
+    "seconds": 1.807
   },
   {
     "source_id": "-MK-xIWwMHTIBuSh3ZWQ",
@@ -8746,7 +8746,7 @@
     "rank": 20,
     "eligible_pages": 21,
     "page_count": 1,
-    "implementation_sha256": "019ee4daa52c6177effba3b379f44639503084d1deb6dc84a60b8c05510f3dfc",
+    "implementation_sha256": "02d6412566f097636f732e01306b59453bb71cfe4ab952b2f68e2ed3147995ca",
     "previous_chars": 780,
     "native_chars": 61421,
     "best_chars": 757,
@@ -8839,6 +8839,6 @@
       "u/l": 876
     },
     "roundtrip_candidates": 35,
-    "seconds": 2.646
+    "seconds": 2.653
   }
 ]
