@@ -1,1 +1,1 @@
-The oil-refining example comes from [Nilaus Master Class](https://www.factorio.school/view/-MIMpsZJa9WHxI4H6fcD), posted by AleX. The blueprint design belongs to its author; the project MIT license covers the code.
+The Master Class example comes from [Nilaus Master Class](https://www.factorio.school/view/-MIMpsZJa9WHxI4H6fcD), posted by AleX. The blueprint designs belong to their author; the project MIT license covers the code.

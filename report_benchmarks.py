@@ -50,21 +50,21 @@ def main():
               "For anyone reproducing the test: [measurements](block-results.csv), "
               "[exact source versions](site-corpus/sources.json), "
               "[test scripts](benchmark_blocks.py).", ""]
-    example=json.loads((ROOT/'examples/oil-refining.json').read_text())
-    source=(ROOT/'examples/oil-refining.factorio.txt').read_text().strip()
-    encoded=(ROOT/'examples/oil-refining.compact.txt').read_text().strip()
+    example=json.loads((ROOT/'examples/master-class.json').read_text())
+    source=(ROOT/'examples/master-class.factorio.txt').read_text().strip()
+    encoded=(ROOT/'examples/master-class.compact.txt').read_text().strip()
     lines += ['## One example', '',
-              f"[{example['name']}]({example['source']}) is a mid-sized individual blueprint: "
+              f"[{example['name']}]({example['source']}) is a blueprint book: "
               f"**{len(source):,} → {len(encoded):,} characters**, or **{len(source)/len(encoded):.1f}:1** "
-              '(less than half the original length).', '',
+              '(about one-fifth the original length).', '',
               '<details>', '<summary>Compare the strings side by side</summary>', '',
               '<table>', '<tr><th>Factorio string</th><th>Compact string</th></tr>',
-              '<tr><td valign="top"><pre>'+html.escape('\n'.join(textwrap.wrap(source,40,break_on_hyphens=False)))+
-              '</pre></td><td valign="top"><pre>'+html.escape('\n'.join(textwrap.wrap(encoded,40,break_on_hyphens=False)))+
+              '<tr><td valign="top"><pre>'+html.escape('\n'.join(textwrap.wrap(source[:240]+'...',40,break_on_hyphens=False)))+
+              '</pre></td><td valign="top"><pre>'+html.escape('\n'.join(textwrap.wrap(encoded[:240]+'...',40,break_on_hyphens=False)))+
               '</pre></td></tr>', '</table>', '',
-              'The display is wrapped to fit. Copyable files: '
-              '[Factorio string](examples/oil-refining.factorio.txt) · '
-              '[compact string](examples/oil-refining.compact.txt).', '', '</details>', '']
+              'Previews show the first 240 characters. Full copyable strings: '
+              '[Factorio string](examples/master-class.factorio.txt) · '
+              '[compact string](examples/master-class.compact.txt).', '', '</details>', '']
     (ROOT / "BENCHMARKS.md").write_text("\n".join(lines))
     print("Wrote BENCHMARKS.md")
 
