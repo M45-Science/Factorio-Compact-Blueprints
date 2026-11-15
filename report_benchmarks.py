@@ -24,8 +24,9 @@ NAMES = {
 
 
 def main():
-    rows = [row for row in json.loads((ROOT / "block-results.json").read_text())
+    rows = [row for row in json.loads((ROOT / "optimized-results.json").read_text())
             if row["kind"] == "whole"]
+    assert len(rows) == 13, "expected all 13 complete public designs"
     original = sum(row["native_chars"] for row in rows)
     compact = sum(row["best_chars"] for row in rows)
     lines = ["# Benchmarks", "",
@@ -47,12 +48,15 @@ def main():
               "Results vary with how much repeated data each design contains.", "",
               "The original and restored blueprints produced identical exports in Factorio 2.1.24. "
               "[Accuracy checks](ACCURACY.md)", "",
-              "For anyone reproducing the test: [measurements](block-results.csv), "
+              "For anyone reproducing the test: [measurements](optimized-results.csv), "
               "[exact source versions](site-corpus/sources.json), "
-              "[test scripts](benchmark_blocks.py).", ""]
+              "[test scripts](benchmark_optimized.py).", ""]
     example=json.loads((ROOT/'examples/master-class.json').read_text())
     source=(ROOT/'examples/master-class.factorio.txt').read_text().strip()
     encoded=(ROOT/'examples/master-class.compact.txt').read_text().strip()
+    measurement=next(row for row in rows if row['key']==example['key'])
+    assert len(encoded)==measurement['best_chars']==example['compact_chars']
+    assert len(source)==measurement['native_chars']==example['original_chars']
     lines += ['## One example', '',
               f"[{example['name']}]({example['source']}) is a blueprint book: "
               f"**{len(source):,} → {len(encoded):,} characters**, or **{len(source)/len(encoded):.1f}:1** "

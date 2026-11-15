@@ -1,0 +1,29 @@
+{
+  "total": 1,
+  "decoder_checks": 25,
+  "portable_imports": 1,
+  "clean": 1,
+  "warnings": 0,
+  "mismatches": 0,
+  "mods": {
+    "base": "2.1.24",
+    "elevated-rails": "2.1.24",
+    "recycler": "2.1.24",
+    "quality": "2.1.24",
+    "space-age": "2.1.24"
+  },
+  "version": "Version: 2.1.24 (build 87808, linux64, headless)",
+  "python_decoder_checks": 1,
+  "seconds": 1.002,
+  "lua_sha256": "6967d23922625d8151c782e84121717b45b57c041f6ee8826d79d9941a1861d2",
+  "measurements": [
+    {
+      "key": "module-order-regression",
+      "lua_chars": 228,
+      "python_portable_chars": 220,
+      "native_chars": 357,
+      "status": 0,
+      "mode": "gd"
+    }
+  ]
+}

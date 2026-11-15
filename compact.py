@@ -6,6 +6,7 @@ import itertools
 import json
 import lzma
 import math
+import re
 import zlib
 
 import brotli
@@ -23,7 +24,17 @@ def pack(value):
 
 
 def unpack(data):
-    return msgpack.unpackb(data, raw=False, strict_map_key=False)
+    def extension(code, payload):
+        if code == 3:
+            raw = payload.decode("ascii")
+            if not re.fullmatch(r"-?(?:0|[1-9][0-9]*)(?:\.[0-9]+)?(?:[eE][+-]?[0-9]+)?", raw):
+                raise ValueError("invalid literal number")
+            value = json.loads(raw)
+            if isinstance(value, float) and not math.isfinite(value):
+                raise ValueError("nonfinite literal number")
+            return value
+        return msgpack.ExtType(code, payload)
+    return msgpack.unpackb(data, raw=False, strict_map_key=False, ext_hook=extension)
 
 
 def varint(n):
@@ -150,6 +161,16 @@ def uncoordinates(value):
     return result
 
 
+def ordered_template(value):
+    """Canonicalize fields while retaining legacy module-map slot order."""
+    if isinstance(value, dict):
+        return {k: (value[k] if k == "items" and isinstance(value[k], dict)
+                    else ordered_template(value[k])) for k in sorted(value)}
+    if isinstance(value, list):
+        return [ordered_template(v) for v in value]
+    return value
+
+
 def table(rows, entity, template_key=None):
     if not rows:
         return None
@@ -163,7 +184,7 @@ def table(rows, entity, template_key=None):
     for r in rows:
         template = {k: v for k, v in r.items() if k not in reserved}
         key = (template_key(template) if template_key else
-               json.dumps(template, sort_keys=True, separators=(",", ":")))
+               json.dumps(ordered_template(template), separators=(",", ":")))
         if key not in lookup:
             lookup[key] = len(palette)
             palette.append(template)
@@ -244,7 +265,7 @@ def printable(data):
     return base64.urlsafe_b64encode(data).decode().rstrip("=")
 
 
-def candidates(value, repeated=True):
+def candidates(value, repeated=True, interned=False, codecs=None):
     # Raw JSON fallback handles all JSON values and bounds incompressible overhead.
     forms = {"j": json_bytes(value)}
     try:
@@ -257,12 +278,25 @@ def candidates(value, repeated=True):
             forms.update({mode: pack(v) for mode, v in representations(value).items()})
         except (OverflowError, ValueError):
             pass
-    return {f"{form}/{codec}": "BX0:" + form + codec + printable(compress(data))
-            for form, data in forms.items() for codec, compress in COMPRESS.items()}
+    compressors = {key: COMPRESS[key] for key in (codecs if codecs is not None else COMPRESS)}
+    options = {f"{form}/{codec}": "BX0:" + form + codec + printable(compress(data))
+               for form, data in forms.items() for codec, compress in compressors.items()}
+    if interned:
+        from interning import intern
+        for form, data in forms.items():
+            if form == "j":
+                continue
+            payload = unpack(data)
+            for strings_only in (False, True):
+                encoded = pack([form, intern(payload, strings_only=strings_only)])
+                for codec, compress in compressors.items():
+                    name = f"i/{form}/{'strings' if strings_only else 'objects'}/{codec}"
+                    options[name] = "BX0:i" + codec + printable(compress(encoded))
+    return options
 
 
-def encode(value):
-    return min(candidates(value).values(), key=len)
+def encode(value, portable=False):
+    return min(candidates(value, interned=True, codecs=("n", "d") if portable else None).values(), key=len)
 
 
 def decode(text):
@@ -274,6 +308,10 @@ def decode(text):
         return json.loads(data)
     if form == "s":
         return restore(unpack(data))
+    if form == "i":
+        from interning import expand, restore_payload
+        base, dictionary = unpack(data)
+        return restore_payload(base, expand(dictionary))
     if form in ("g", "o", "a", "r", "p", "t", "u"):
         from subassemblies import restore_blocks
         return restore_blocks(unpack(data))
@@ -294,10 +332,11 @@ def main():
     parser.add_argument("action", choices=["encode", "decode"])
     parser.add_argument("input")
     parser.add_argument("output")
+    parser.add_argument("--portable", action="store_true", help="Use codecs available inside Factorio Lua")
     args = parser.parse_args()
     with open(args.input) as f:
         text = f.read()
-    out = encode(native_decode(text)) if args.action == "encode" else native_encode(decode(text.strip()))
+    out = encode(native_decode(text), portable=args.portable) if args.action == "encode" else native_encode(decode(text.strip()))
     with open(args.output, "w") as f:
         f.write(out + "\n")
 

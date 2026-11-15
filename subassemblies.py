@@ -17,7 +17,8 @@ from compact import (pack, read_varints, sequence, table, unsequence, untable,
 
 def canonical(value):
     if isinstance(value, dict):
-        return {k: canonical(value[k]) for k in sorted(value)}
+        return {k: (value[k] if k == "items" and isinstance(value[k], dict)
+                    else canonical(value[k])) for k in sorted(value)}
     if isinstance(value, list):
         return [canonical(v) for v in value]
     return value

@@ -1,0 +1,557 @@
+{
+  "total": 67,
+  "decoder_checks": 1675,
+  "portable_imports": 67,
+  "clean": 61,
+  "warnings": 6,
+  "mismatches": 0,
+  "mods": {
+    "base": "2.1.24",
+    "elevated-rails": "2.1.24",
+    "recycler": "2.1.24",
+    "quality": "2.1.24",
+    "space-age": "2.1.24"
+  },
+  "version": "Version: 2.1.24 (build 87808, linux64, headless)",
+  "python_decoder_checks": 67,
+  "seconds": 825.481,
+  "lua_sha256": "6967d23922625d8151c782e84121717b45b57c041f6ee8826d79d9941a1861d2",
+  "measurements": [
+    {
+      "key": "-MIMpsZJa9WHxI4H6fcD/whole",
+      "lua_chars": 107158,
+      "python_portable_chars": 105396,
+      "native_chars": 489893,
+      "status": 0,
+      "mode": "id"
+    },
+    {
+      "key": "-MIMpsZJa9WHxI4H6fcD/7/2",
+      "lua_chars": 1041,
+      "python_portable_chars": 1017,
+      "native_chars": 1125,
+      "status": 0,
+      "mode": "gd"
+    },
+    {
+      "key": "-MIMpsZJa9WHxI4H6fcD/6/4",
+      "lua_chars": 1224,
+      "python_portable_chars": 1226,
+      "native_chars": 2217,
+      "status": 0,
+      "mode": "od"
+    },
+    {
+      "key": "-MIMpsZJa9WHxI4H6fcD/2/2",
+      "lua_chars": 1881,
+      "python_portable_chars": 1858,
+      "native_chars": 3965,
+      "status": 0,
+      "mode": "ad"
+    },
+    {
+      "key": "-MIMpsZJa9WHxI4H6fcD/17/3",
+      "lua_chars": 1517,
+      "python_portable_chars": 1516,
+      "native_chars": 5293,
+      "status": 0,
+      "mode": "od"
+    },
+    {
+      "key": "-MIMpsZJa9WHxI4H6fcD/9/7",
+      "lua_chars": 1240,
+      "python_portable_chars": 1209,
+      "native_chars": 50149,
+      "status": 0,
+      "mode": "id"
+    },
+    {
+      "key": "-ML5RsMXhj7tnbbzs02H/whole",
+      "lua_chars": 60773,
+      "python_portable_chars": 60789,
+      "native_chars": 214821,
+      "status": 0,
+      "mode": "id"
+    },
+    {
+      "key": "-ML5RsMXhj7tnbbzs02H/0/8",
+      "lua_chars": 569,
+      "python_portable_chars": 564,
+      "native_chars": 665,
+      "status": 0,
+      "mode": "gd"
+    },
+    {
+      "key": "-ML5RsMXhj7tnbbzs02H/0/9",
+      "lua_chars": 733,
+      "python_portable_chars": 730,
+      "native_chars": 961,
+      "status": 0,
+      "mode": "gd"
+    },
+    {
+      "key": "-ML5RsMXhj7tnbbzs02H/7/10",
+      "lua_chars": 672,
+      "python_portable_chars": 676,
+      "native_chars": 1081,
+      "status": 0,
+      "mode": "gd"
+    },
+    {
+      "key": "-ML5RsMXhj7tnbbzs02H/7/14",
+      "lua_chars": 913,
+      "python_portable_chars": 913,
+      "native_chars": 1541,
+      "status": 0,
+      "mode": "gd"
+    },
+    {
+      "key": "-ML5RsMXhj7tnbbzs02H/9/7",
+      "lua_chars": 7246,
+      "python_portable_chars": 7240,
+      "native_chars": 60981,
+      "status": 0,
+      "mode": "od"
+    },
+    {
+      "key": "-Ln7bpxs1Mmtyv9yx8x5/whole",
+      "lua_chars": 75913,
+      "python_portable_chars": 75896,
+      "native_chars": 467309,
+      "status": 0,
+      "mode": "id"
+    },
+    {
+      "key": "-Ln7bpxs1Mmtyv9yx8x5/0",
+      "lua_chars": 5401,
+      "python_portable_chars": 5380,
+      "native_chars": 24345,
+      "status": 0,
+      "mode": "id"
+    },
+    {
+      "key": "-Ln7bpxs1Mmtyv9yx8x5/6",
+      "lua_chars": 22706,
+      "python_portable_chars": 22644,
+      "native_chars": 77261,
+      "status": 0,
+      "mode": "id"
+    },
+    {
+      "key": "-Ln7bpxs1Mmtyv9yx8x5/5",
+      "lua_chars": 20710,
+      "python_portable_chars": 20669,
+      "native_chars": 78941,
+      "status": 0,
+      "mode": "id"
+    },
+    {
+      "key": "-Ln7bpxs1Mmtyv9yx8x5/4",
+      "lua_chars": 19257,
+      "python_portable_chars": 19210,
+      "native_chars": 76145,
+      "status": 0,
+      "mode": "id"
+    },
+    {
+      "key": "-Ln7bpxs1Mmtyv9yx8x5/3",
+      "lua_chars": 18845,
+      "python_portable_chars": 18825,
+      "native_chars": 79217,
+      "status": 0,
+      "mode": "id"
+    },
+    {
+      "key": "-MQ9-6LlT_g5PGsGXkyX/whole",
+      "lua_chars": 3630,
+      "python_portable_chars": 3622,
+      "native_chars": 10545,
+      "status": 0,
+      "mode": "od"
+    },
+    {
+      "key": "-K_Me61B1oQ_Dmjbde9B/whole",
+      "lua_chars": 1532,
+      "python_portable_chars": 1542,
+      "native_chars": 2885,
+      "status": 0,
+      "mode": "od"
+    },
+    {
+      "key": "-Kp6dxRcQbpr7UrzJC6x/whole",
+      "lua_chars": 1422,
+      "python_portable_chars": 1428,
+      "native_chars": 2697,
+      "status": 0,
+      "mode": "pd"
+    },
+    {
+      "key": "-Kp6dxRcQbpr7UrzJC6x/0",
+      "lua_chars": 665,
+      "python_portable_chars": 668,
+      "native_chars": 1205,
+      "status": 0,
+      "mode": "gd"
+    },
+    {
+      "key": "-Kp6dxRcQbpr7UrzJC6x/1",
+      "lua_chars": 938,
+      "python_portable_chars": 948,
+      "native_chars": 1737,
+      "status": 0,
+      "mode": "gd"
+    },
+    {
+      "key": "-LrxBIuzRGB9jKLgPRqH/whole",
+      "lua_chars": 22884,
+      "python_portable_chars": 22624,
+      "native_chars": 68381,
+      "status": 0,
+      "mode": "id"
+    },
+    {
+      "key": "-LrxBIuzRGB9jKLgPRqH/1",
+      "lua_chars": 588,
+      "python_portable_chars": 578,
+      "native_chars": 713,
+      "status": 0,
+      "mode": "gd"
+    },
+    {
+      "key": "-LrxBIuzRGB9jKLgPRqH/41",
+      "lua_chars": 832,
+      "python_portable_chars": 824,
+      "native_chars": 1321,
+      "status": 0,
+      "mode": "gd"
+    },
+    {
+      "key": "-LrxBIuzRGB9jKLgPRqH/18",
+      "lua_chars": 1221,
+      "python_portable_chars": 1210,
+      "native_chars": 1977,
+      "status": 0,
+      "mode": "gd"
+    },
+    {
+      "key": "-LrxBIuzRGB9jKLgPRqH/34",
+      "lua_chars": 1232,
+      "python_portable_chars": 1054,
+      "native_chars": 2781,
+      "status": 0,
+      "mode": "gd"
+    },
+    {
+      "key": "-LrxBIuzRGB9jKLgPRqH/42",
+      "lua_chars": 1700,
+      "python_portable_chars": 1450,
+      "native_chars": 5037,
+      "status": 0,
+      "mode": "rd"
+    },
+    {
+      "key": "-OLexShcZSLG8qYkOLiy/7",
+      "lua_chars": 454,
+      "python_portable_chars": 454,
+      "native_chars": 713,
+      "status": 0,
+      "mode": "gd"
+    },
+    {
+      "key": "-OLexShcZSLG8qYkOLiy/26/0",
+      "lua_chars": 2634,
+      "python_portable_chars": 2642,
+      "native_chars": 3301,
+      "status": 0,
+      "mode": "gd"
+    },
+    {
+      "key": "-OLexShcZSLG8qYkOLiy/22/13",
+      "lua_chars": 4253,
+      "python_portable_chars": 4264,
+      "native_chars": 12205,
+      "status": 0,
+      "mode": "id"
+    },
+    {
+      "key": "-OLexShcZSLG8qYkOLiy/26/19",
+      "lua_chars": 5252,
+      "python_portable_chars": 5290,
+      "native_chars": 16925,
+      "status": 0,
+      "mode": "id"
+    },
+    {
+      "key": "-OLexShcZSLG8qYkOLiy/25/10",
+      "lua_chars": 30064,
+      "python_portable_chars": 30074,
+      "native_chars": 108653,
+      "status": 0,
+      "mode": "id"
+    },
+    {
+      "key": "-OX4QBKmwEZ6dIBJY5C5/whole",
+      "lua_chars": 24216,
+      "python_portable_chars": 24230,
+      "native_chars": 91889,
+      "status": 0,
+      "mode": "id"
+    },
+    {
+      "key": "-OFo0h6eKudNzNzkh9zL/whole",
+      "lua_chars": 8037,
+      "python_portable_chars": 7998,
+      "native_chars": 16141,
+      "status": 0,
+      "mode": "id"
+    },
+    {
+      "key": "-OL_E6IO4gmQUdqFgTjq/whole",
+      "lua_chars": 18540,
+      "python_portable_chars": 18548,
+      "native_chars": 53617,
+      "status": 0,
+      "mode": "id"
+    },
+    {
+      "key": "-OL_E6IO4gmQUdqFgTjq/3",
+      "lua_chars": 3466,
+      "python_portable_chars": 3457,
+      "native_chars": 5905,
+      "status": 0,
+      "mode": "gd"
+    },
+    {
+      "key": "-OL_E6IO4gmQUdqFgTjq/4",
+      "lua_chars": 3554,
+      "python_portable_chars": 3536,
+      "native_chars": 6237,
+      "status": 0,
+      "mode": "od"
+    },
+    {
+      "key": "-OL_E6IO4gmQUdqFgTjq/1",
+      "lua_chars": 3798,
+      "python_portable_chars": 3790,
+      "native_chars": 7073,
+      "status": 0,
+      "mode": "id"
+    },
+    {
+      "key": "-OL_E6IO4gmQUdqFgTjq/6",
+      "lua_chars": 4514,
+      "python_portable_chars": 4522,
+      "native_chars": 8133,
+      "status": 0,
+      "mode": "id"
+    },
+    {
+      "key": "-OL_E6IO4gmQUdqFgTjq/2",
+      "lua_chars": 4232,
+      "python_portable_chars": 4236,
+      "native_chars": 8817,
+      "status": 0,
+      "mode": "id"
+    },
+    {
+      "key": "-OglzvHBH0h-t8JIZKyF/0/0",
+      "lua_chars": 609,
+      "python_portable_chars": 602,
+      "native_chars": 733,
+      "status": 0,
+      "mode": "gd"
+    },
+    {
+      "key": "-OglzvHBH0h-t8JIZKyF/0/12",
+      "lua_chars": 1953,
+      "python_portable_chars": 1948,
+      "native_chars": 3033,
+      "status": 0,
+      "mode": "id"
+    },
+    {
+      "key": "-OglzvHBH0h-t8JIZKyF/4/5",
+      "lua_chars": 1549,
+      "python_portable_chars": 1536,
+      "native_chars": 2501,
+      "status": 0,
+      "mode": "gd"
+    },
+    {
+      "key": "-OglzvHBH0h-t8JIZKyF/5/8",
+      "lua_chars": 1678,
+      "python_portable_chars": 1657,
+      "native_chars": 3701,
+      "status": 0,
+      "mode": "gd"
+    },
+    {
+      "key": "-OglzvHBH0h-t8JIZKyF/1/15",
+      "lua_chars": 13630,
+      "python_portable_chars": 13678,
+      "native_chars": 87749,
+      "status": -1,
+      "mode": "id"
+    },
+    {
+      "key": "-OBdq3vJ2slIWEDAXEeM/whole",
+      "lua_chars": 161933,
+      "python_portable_chars": 161944,
+      "native_chars": 695609,
+      "status": 0,
+      "mode": "id"
+    },
+    {
+      "key": "-OBdq3vJ2slIWEDAXEeM/3/1",
+      "lua_chars": 2254,
+      "python_portable_chars": 2238,
+      "native_chars": 2345,
+      "status": 0,
+      "mode": "gd"
+    },
+    {
+      "key": "-OBdq3vJ2slIWEDAXEeM/7/0",
+      "lua_chars": 1056,
+      "python_portable_chars": 1037,
+      "native_chars": 1561,
+      "status": 0,
+      "mode": "gd"
+    },
+    {
+      "key": "-OBdq3vJ2slIWEDAXEeM/6/25",
+      "lua_chars": 1302,
+      "python_portable_chars": 1278,
+      "native_chars": 2669,
+      "status": 0,
+      "mode": "rd"
+    },
+    {
+      "key": "-OBdq3vJ2slIWEDAXEeM/11/1",
+      "lua_chars": 3129,
+      "python_portable_chars": 3120,
+      "native_chars": 5765,
+      "status": 0,
+      "mode": "gd"
+    },
+    {
+      "key": "-OBdq3vJ2slIWEDAXEeM/1/1",
+      "lua_chars": 20473,
+      "python_portable_chars": 20438,
+      "native_chars": 94521,
+      "status": -1,
+      "mode": "id"
+    },
+    {
+      "key": "-LI0gc-a-2_VLWR-tx1d/whole",
+      "lua_chars": 22894,
+      "python_portable_chars": 22640,
+      "native_chars": 68313,
+      "status": -1,
+      "mode": "id"
+    },
+    {
+      "key": "-LI0gc-a-2_VLWR-tx1d/1",
+      "lua_chars": 578,
+      "python_portable_chars": 569,
+      "native_chars": 705,
+      "status": -1,
+      "mode": "gd"
+    },
+    {
+      "key": "-LI0gc-a-2_VLWR-tx1d/34",
+      "lua_chars": 1226,
+      "python_portable_chars": 1050,
+      "native_chars": 2777,
+      "status": -1,
+      "mode": "gd"
+    },
+    {
+      "key": "-OXRxN4v1U8dwIjSO4l4/8/12",
+      "lua_chars": 1021,
+      "python_portable_chars": 1026,
+      "native_chars": 1117,
+      "status": 0,
+      "mode": "gd"
+    },
+    {
+      "key": "-OXRxN4v1U8dwIjSO4l4/1/1",
+      "lua_chars": 1050,
+      "python_portable_chars": 1048,
+      "native_chars": 2949,
+      "status": 0,
+      "mode": "od"
+    },
+    {
+      "key": "-OXRxN4v1U8dwIjSO4l4/8/14",
+      "lua_chars": 3793,
+      "python_portable_chars": 3792,
+      "native_chars": 8145,
+      "status": 0,
+      "mode": "od"
+    },
+    {
+      "key": "-OXRxN4v1U8dwIjSO4l4/1/5",
+      "lua_chars": 2113,
+      "python_portable_chars": 2112,
+      "native_chars": 9345,
+      "status": 0,
+      "mode": "ad"
+    },
+    {
+      "key": "-OXRxN4v1U8dwIjSO4l4/6/2",
+      "lua_chars": 36538,
+      "python_portable_chars": 36560,
+      "native_chars": 204217,
+      "status": -1,
+      "mode": "id"
+    },
+    {
+      "key": "-MK-xIWwMHTIBuSh3ZWQ/whole",
+      "lua_chars": 78050,
+      "python_portable_chars": 77949,
+      "native_chars": 431953,
+      "status": 0,
+      "mode": "id"
+    },
+    {
+      "key": "-MK-xIWwMHTIBuSh3ZWQ/13",
+      "lua_chars": 933,
+      "python_portable_chars": 936,
+      "native_chars": 1753,
+      "status": 0,
+      "mode": "gd"
+    },
+    {
+      "key": "-MK-xIWwMHTIBuSh3ZWQ/14",
+      "lua_chars": 1816,
+      "python_portable_chars": 1810,
+      "native_chars": 5165,
+      "status": 0,
+      "mode": "gd"
+    },
+    {
+      "key": "-MK-xIWwMHTIBuSh3ZWQ/4",
+      "lua_chars": 4066,
+      "python_portable_chars": 4054,
+      "native_chars": 9737,
+      "status": 0,
+      "mode": "gd"
+    },
+    {
+      "key": "-MK-xIWwMHTIBuSh3ZWQ/17",
+      "lua_chars": 19265,
+      "python_portable_chars": 19185,
+      "native_chars": 42701,
+      "status": 0,
+      "mode": "id"
+    },
+    {
+      "key": "-MK-xIWwMHTIBuSh3ZWQ/18",
+      "lua_chars": 861,
+      "python_portable_chars": 857,
+      "native_chars": 61421,
+      "status": 0,
+      "mode": "gd"
+    }
+  ]
+}

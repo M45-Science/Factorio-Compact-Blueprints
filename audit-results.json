@@ -1,14 +1,17 @@
 {
   "fixtures": 67,
-  "candidate_roundtrips": 3015,
+  "candidate_roundtrips": 8375,
   "all_saved_lengths_match": true,
   "source_hashes_match": true,
   "aggregate_summaries_match": true,
-  "implementation_sha256": "019ee4daa52c6177effba3b379f44639503084d1deb6dc84a60b8c05510f3dfc",
+  "implementation_sha256": "2eb0a0ce72aea25391ceaf825f6b3349623cf1c7ec549ae1640e93a521f5b263",
   "packages": {
     "msgpack": "1.0.3",
     "Brotli": "1.1.0",
     "zstandard": "0.22.0"
   },
-  "seconds": 251.35
+  "seconds": 562.668,
+  "equivalent_deflate_payloads_verified": 1675,
+  "identical_game_import_pairs_verified": 67,
+  "verification": "Fresh benchmark round trips; all saved lengths, deflate payloads, and game import pairs match the full audit"
 }

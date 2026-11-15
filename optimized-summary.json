@@ -1,0 +1,16 @@
+{
+  "whole": {
+    "count": 13,
+    "native_chars": 2614053,
+    "best_chars": 507915,
+    "portable_chars": 584606,
+    "roundtrip_candidates": 1625
+  },
+  "leaf": {
+    "count": 54,
+    "native_chars": 1211230,
+    "best_chars": 259113,
+    "portable_chars": 293205,
+    "roundtrip_candidates": 6750
+  }
+}

@@ -5,7 +5,7 @@ Works with individual blueprints and blueprint books.
 
 ## How much smaller?
 
-In our public-blueprint test, the strings were **about 80% shorter overall**.
+In our public-blueprint test, the strings were **about 81% shorter overall**.
 That is **about 5:1**, or **roughly one-fifth the original length**. Savings vary
 by design.
 
@@ -25,6 +25,8 @@ python3 compact.py decode compact.txt restored.txt
 
 Paste the contents of `restored.txt` into Factorio. Compact strings cannot be
 pasted directly into the game.
+
+For use in mods, see the [Lua encoder and decoder](LUA.md).
 
 ## Does it preserve the blueprint?
 

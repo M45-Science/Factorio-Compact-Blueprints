@@ -1,0 +1,85 @@
+[
+  {
+    "name": "blueprint-and-dictionaries",
+    "value": {
+      "blueprint": {
+        "item": "blueprint",
+        "version": 562949953421312,
+        "label": "Factory ☃",
+        "entities": [
+          {
+            "entity_number": 7,
+            "name": "transport-belt",
+            "position": {
+              "x": -0.0,
+              "y": 0.5
+            }
+          },
+          {
+            "entity_number": 93,
+            "name": "fast-inserter",
+            "position": {
+              "x": 1.5,
+              "y": 2.0
+            },
+            "tags": {
+              "empty": [],
+              "unset": null,
+              "maximum": 18446744073709551615
+            }
+          }
+        ],
+        "wires": [
+          [
+            7,
+            1,
+            93,
+            2
+          ]
+        ]
+      }
+    },
+    "frames": {
+      "j/n": "BX0:jneyJibHVlcHJpbnQiOnsiaXRlbSI6ImJsdWVwcmludCIsInZlcnNpb24iOjU2Mjk0OTk1MzQyMTMxMiwibGFiZWwiOiJGYWN0b3J5IOKYgyIsImVudGl0aWVzIjpbeyJlbnRpdHlfbnVtYmVyIjo3LCJuYW1lIjoidHJhbnNwb3J0LWJlbHQiLCJwb3NpdGlvbiI6eyJ4IjotMC4wLCJ5IjowLjV9fSx7ImVudGl0eV9udW1iZXIiOjkzLCJuYW1lIjoiZmFzdC1pbnNlcnRlciIsInBvc2l0aW9uIjp7IngiOjEuNSwieSI6Mi4wfSwidGFncyI6eyJlbXB0eSI6W10sInVuc2V0IjpudWxsLCJtYXhpbXVtIjoxODQ0Njc0NDA3MzcwOTU1MTYxNX19XSwid2lyZXMiOltbNywxLDkzLDJdXX19",
+      "s/n": "BX0:snkoGpYmx1ZXByaW50haRpdGVtqWJsdWVwcmludKd2ZXJzaW9uzwACAAAAAAAApWxhYmVsq0ZhY3Rvcnkg4piDqGVudGl0aWVzwKV3aXJlc5GUBwFdApGSkqlibHVlcHJpbnSoZW50aXRpZXOVkoGkbmFtZa50cmFuc3BvcnQtYmVsdIKkbmFtZa1mYXN0LWluc2VydGVypHRhZ3ODpWVtcHR5kKV1bnNldMCnbWF4aW11bc___________5IAkgABlAECkgCSAAOSAJIDAZQBApIAkgEEkgCSAQGSAJIHXQ",
+      "g/n": "BX0:gnk4GpYmx1ZXByaW50haRpdGVtqWJsdWVwcmludKd2ZXJzaW9uzwACAAAAAAAApWxhYmVsq0ZhY3Rvcnkg4piDqGVudGl0aWVzwKV3aXJlc8CRkpKpYmx1ZXByaW50qGVudGl0aWVzkgCVkoGkbmFtZa50cmFuc3BvcnQtYmVsdIKkbmFtZa1mYXN0LWluc2VydGVypHRhZ3ODpWVtcHR5kKV1bnNldMCnbWF4aW11bc___________5IAkgABlAECkgCSAAOSAJIDAZQBApIAkgEEkgCSAQGSAJIHXZGSkalibHVlcHJpbnSUkgCRAJIAkQGSAJEBkgCRAg",
+      "o/n": "BX0:onk4GpYmx1ZXByaW50haRpdGVtqWJsdWVwcmludKd2ZXJzaW9uzwACAAAAAAAApWxhYmVsq0ZhY3Rvcnkg4piDqGVudGl0aWVzwKV3aXJlc8CRkpKpYmx1ZXByaW50qGVudGl0aWVzkwGVkoGkbmFtZa50cmFuc3BvcnQtYmVsdIKkbmFtZa1mYXN0LWluc2VydGVypHRhZ3ODpWVtcHR5kKV1bnNldMCnbWF4aW11bc___________5IAkgABlAECkgCSAAOSAJIDAZQBApIAkgEEkgCSAQGSAJIHXZIAkgABkZKRqWJsdWVwcmludJSSAJEAkgCRAZIAkQGSAJEC",
+      "a/n": "BX0:ank4GpYmx1ZXByaW50haRpdGVtqWJsdWVwcmludKd2ZXJzaW9uzwACAAAAAAAApWxhYmVsq0ZhY3Rvcnkg4piDqGVudGl0aWVzwKV3aXJlc8CRkpKpYmx1ZXByaW50qGVudGl0aWVzkgCVkoGkbmFtZa50cmFuc3BvcnQtYmVsdIKkbmFtZa1mYXN0LWluc2VydGVypHRhZ3ODpWVtcHR5kKV1bnNldMCnbWF4aW11bc___________5IAkgABlAECkgCSAAOSAJIDAZQBApIAkgEEkgCSAQGSAJIHXZGSkalibHVlcHJpbnSUkgCRAJIAkQGSAJEBkgCRAg",
+      "r/n": "BX0:rnk4GpYmx1ZXByaW50haRpdGVtqWJsdWVwcmludKd2ZXJzaW9uzwACAAAAAAAApWxhYmVsq0ZhY3Rvcnkg4piDqGVudGl0aWVzwKV3aXJlc8CRkpKpYmx1ZXByaW50qGVudGl0aWVzkgCVkoGkbmFtZa50cmFuc3BvcnQtYmVsdIKkbmFtZa1mYXN0LWluc2VydGVypHRhZ3ODpWVtcHR5kKV1bnNldMCnbWF4aW11bc___________5IAkgABlAECkgCSAAOSAJIDAZQBApIAkgEEkgCSAQGSAJIHXZGSkalibHVlcHJpbnSUkgCRAJIAkQGSAJEBkgCRAg",
+      "p/n": "BX0:pnlYGpYmx1ZXByaW50haRpdGVtqWJsdWVwcmludKd2ZXJzaW9uzwACAAAAAAAApWxhYmVsq0ZhY3Rvcnkg4piDqGVudGl0aWVzwKV3aXJlc8CRkpKpYmx1ZXByaW50qGVudGl0aWVzkgCVwJIAkgABlAECkgCSAAOSAJIDAZQBApIAkgEEkgCSAQGSAJIHXZGSkalibHVlcHJpbnSUkgCRAJIAkQGSAJEBkgCRApKBpG5hbWWudHJhbnNwb3J0LWJlbHSCpG5hbWWtZmFzdC1pbnNlcnRlcqR0YWdzg6VlbXB0eZCldW5zZXTAp21heGltdW3P__________-Q",
+      "t/n": "BX0:tnlYGpYmx1ZXByaW50haRpdGVtqWJsdWVwcmludKd2ZXJzaW9uzwACAAAAAAAApWxhYmVsq0ZhY3Rvcnkg4piDqGVudGl0aWVzwKV3aXJlc8CRkpKpYmx1ZXByaW50qGVudGl0aWVzkgCVwJIAkgABlAECkgCSAAOSAJIDAZQBApIAkgEEkgCSAQGSAJIHXZGSkalibHVlcHJpbnSUkgCRAJIAkQGSAJEBkgCRApKBpG5hbWWudHJhbnNwb3J0LWJlbHSCpG5hbWWtZmFzdC1pbnNlcnRlcqR0YWdzg6VlbXB0eZCldW5zZXTAp21heGltdW3P__________-Q",
+      "u/n": "BX0:unlYGpYmx1ZXByaW50haRpdGVtqWJsdWVwcmludKd2ZXJzaW9uzwACAAAAAAAApWxhYmVsq0ZhY3Rvcnkg4piDqGVudGl0aWVzwKV3aXJlc8CRkpKpYmx1ZXByaW50qGVudGl0aWVzkgCVwJIAkgABlAECkgCSAAOSAJIDAZQBApIAkgEEkgCSAQGSAJIHXZGSkalibHVlcHJpbnSUkgCRAJIAkQGSAJEBkgCRApKBpG5hbWWudHJhbnNwb3J0LWJlbHSCpG5hbWWtZmFzdC1pbnNlcnRlcqR0YWdzg6VlbXB0eZCldW5zZXTAp21heGltdW3P__________-Q",
+      "i/s/objects/n": "BX0:inkqFzkpGpYmx1ZXByaW50koHUAgCFpGl0ZW3UAgCndmVyc2lvbs8AAgAAAAAAAKVsYWJlbKtGYWN0b3J5IOKYg6hlbnRpdGllc8Cld2lyZXORlAcBXQKRkpLUAgCoZW50aXRpZXOVkoGkbmFtZa50cmFuc3BvcnQtYmVsdIKkbmFtZa1mYXN0LWluc2VydGVypHRhZ3ODpWVtcHR5kKV1bnNldMCnbWF4aW11bc___________5IAkgABlAECkgCSAAOSAJIDAZQBApIAkgEEkgCSAQGSAJIHXQ",
+      "i/s/strings/n": "BX0:inkqFzkpGpYmx1ZXByaW50koHUAgCFpGl0ZW3UAgCndmVyc2lvbs8AAgAAAAAAAKVsYWJlbKtGYWN0b3J5IOKYg6hlbnRpdGllc8Cld2lyZXORlAcBXQKRkpLUAgCoZW50aXRpZXOVkoGkbmFtZa50cmFuc3BvcnQtYmVsdIKkbmFtZa1mYXN0LWluc2VydGVypHRhZ3ODpWVtcHR5kKV1bnNldMCnbWF4aW11bc___________5IAkgABlAECkgCSAAOSAJIDAZQBApIAkgEEkgCSAQGSAJIHXQ",
+      "i/g/objects/n": "BX0:inkqFnkpGpYmx1ZXByaW50k4HUAgCFpGl0ZW3UAgCndmVyc2lvbs8AAgAAAAAAAKVsYWJlbKtGYWN0b3J5IOKYg6hlbnRpdGllc8Cld2lyZXPAkZKS1AIAqGVudGl0aWVzkgCVkoGkbmFtZa50cmFuc3BvcnQtYmVsdIKkbmFtZa1mYXN0LWluc2VydGVypHRhZ3ODpWVtcHR5kKV1bnNldMCnbWF4aW11bc___________5IAkgABlAECkgCSAAOSAJIDAZQBApIAkgEEkgCSAQGSAJIHXZGSkdQCAJSSAJEAkgCRAZIAkQGSAJEC",
+      "i/g/strings/n": "BX0:inkqFnkpGpYmx1ZXByaW50k4HUAgCFpGl0ZW3UAgCndmVyc2lvbs8AAgAAAAAAAKVsYWJlbKtGYWN0b3J5IOKYg6hlbnRpdGllc8Cld2lyZXPAkZKS1AIAqGVudGl0aWVzkgCVkoGkbmFtZa50cmFuc3BvcnQtYmVsdIKkbmFtZa1mYXN0LWluc2VydGVypHRhZ3ODpWVtcHR5kKV1bnNldMCnbWF4aW11bc___________5IAkgABlAECkgCSAAOSAJIDAZQBApIAkgEEkgCSAQGSAJIHXZGSkdQCAJSSAJEAkgCRAZIAkQGSAJEC",
+      "i/o/objects/n": "BX0:inkqFvkpGpYmx1ZXByaW50k4HUAgCFpGl0ZW3UAgCndmVyc2lvbs8AAgAAAAAAAKVsYWJlbKtGYWN0b3J5IOKYg6hlbnRpdGllc8Cld2lyZXPAkZKS1AIAqGVudGl0aWVzkwGVkoGkbmFtZa50cmFuc3BvcnQtYmVsdIKkbmFtZa1mYXN0LWluc2VydGVypHRhZ3ODpWVtcHR5kKV1bnNldMCnbWF4aW11bc___________5IAkgABlAECkgCSAAOSAJIDAZQBApIAkgEEkgCSAQGSAJIHXZIAkgABkZKR1AIAlJIAkQCSAJEBkgCRAZIAkQI",
+      "i/o/strings/n": "BX0:inkqFvkpGpYmx1ZXByaW50k4HUAgCFpGl0ZW3UAgCndmVyc2lvbs8AAgAAAAAAAKVsYWJlbKtGYWN0b3J5IOKYg6hlbnRpdGllc8Cld2lyZXPAkZKS1AIAqGVudGl0aWVzkwGVkoGkbmFtZa50cmFuc3BvcnQtYmVsdIKkbmFtZa1mYXN0LWluc2VydGVypHRhZ3ODpWVtcHR5kKV1bnNldMCnbWF4aW11bc___________5IAkgABlAECkgCSAAOSAJIDAZQBApIAkgEEkgCSAQGSAJIHXZIAkgABkZKR1AIAlJIAkQCSAJEBkgCRAZIAkQI",
+      "i/a/objects/n": "BX0:inkqFhkpGpYmx1ZXByaW50k4HUAgCFpGl0ZW3UAgCndmVyc2lvbs8AAgAAAAAAAKVsYWJlbKtGYWN0b3J5IOKYg6hlbnRpdGllc8Cld2lyZXPAkZKS1AIAqGVudGl0aWVzkgCVkoGkbmFtZa50cmFuc3BvcnQtYmVsdIKkbmFtZa1mYXN0LWluc2VydGVypHRhZ3ODpWVtcHR5kKV1bnNldMCnbWF4aW11bc___________5IAkgABlAECkgCSAAOSAJIDAZQBApIAkgEEkgCSAQGSAJIHXZGSkdQCAJSSAJEAkgCRAZIAkQGSAJEC",
+      "i/a/strings/n": "BX0:inkqFhkpGpYmx1ZXByaW50k4HUAgCFpGl0ZW3UAgCndmVyc2lvbs8AAgAAAAAAAKVsYWJlbKtGYWN0b3J5IOKYg6hlbnRpdGllc8Cld2lyZXPAkZKS1AIAqGVudGl0aWVzkgCVkoGkbmFtZa50cmFuc3BvcnQtYmVsdIKkbmFtZa1mYXN0LWluc2VydGVypHRhZ3ODpWVtcHR5kKV1bnNldMCnbWF4aW11bc___________5IAkgABlAECkgCSAAOSAJIDAZQBApIAkgEEkgCSAQGSAJIHXZGSkdQCAJSSAJEAkgCRAZIAkQGSAJEC",
+      "i/r/objects/n": "BX0:inkqFykpGpYmx1ZXByaW50k4HUAgCFpGl0ZW3UAgCndmVyc2lvbs8AAgAAAAAAAKVsYWJlbKtGYWN0b3J5IOKYg6hlbnRpdGllc8Cld2lyZXPAkZKS1AIAqGVudGl0aWVzkgCVkoGkbmFtZa50cmFuc3BvcnQtYmVsdIKkbmFtZa1mYXN0LWluc2VydGVypHRhZ3ODpWVtcHR5kKV1bnNldMCnbWF4aW11bc___________5IAkgABlAECkgCSAAOSAJIDAZQBApIAkgEEkgCSAQGSAJIHXZGSkdQCAJSSAJEAkgCRAZIAkQGSAJEC",
+      "i/r/strings/n": "BX0:inkqFykpGpYmx1ZXByaW50k4HUAgCFpGl0ZW3UAgCndmVyc2lvbs8AAgAAAAAAAKVsYWJlbKtGYWN0b3J5IOKYg6hlbnRpdGllc8Cld2lyZXPAkZKS1AIAqGVudGl0aWVzkgCVkoGkbmFtZa50cmFuc3BvcnQtYmVsdIKkbmFtZa1mYXN0LWluc2VydGVypHRhZ3ODpWVtcHR5kKV1bnNldMCnbWF4aW11bc___________5IAkgABlAECkgCSAAOSAJIDAZQBApIAkgEEkgCSAQGSAJIHXZGSkdQCAJSSAJEAkgCRAZIAkQGSAJEC",
+      "i/p/objects/n": "BX0:inkqFwkpGpYmx1ZXByaW50lYHUAgCFpGl0ZW3UAgCndmVyc2lvbs8AAgAAAAAAAKVsYWJlbKtGYWN0b3J5IOKYg6hlbnRpdGllc8Cld2lyZXPAkZKS1AIAqGVudGl0aWVzkgCVwJIAkgABlAECkgCSAAOSAJIDAZQBApIAkgEEkgCSAQGSAJIHXZGSkdQCAJSSAJEAkgCRAZIAkQGSAJECkoGkbmFtZa50cmFuc3BvcnQtYmVsdIKkbmFtZa1mYXN0LWluc2VydGVypHRhZ3ODpWVtcHR5kKV1bnNldMCnbWF4aW11bc___________5A",
+      "i/p/strings/n": "BX0:inkqFwkpGpYmx1ZXByaW50lYHUAgCFpGl0ZW3UAgCndmVyc2lvbs8AAgAAAAAAAKVsYWJlbKtGYWN0b3J5IOKYg6hlbnRpdGllc8Cld2lyZXPAkZKS1AIAqGVudGl0aWVzkgCVwJIAkgABlAECkgCSAAOSAJIDAZQBApIAkgEEkgCSAQGSAJIHXZGSkdQCAJSSAJEAkgCRAZIAkQGSAJECkoGkbmFtZa50cmFuc3BvcnQtYmVsdIKkbmFtZa1mYXN0LWluc2VydGVypHRhZ3ODpWVtcHR5kKV1bnNldMCnbWF4aW11bc___________5A",
+      "i/t/objects/n": "BX0:inkqF0kpGpYmx1ZXByaW50lYHUAgCFpGl0ZW3UAgCndmVyc2lvbs8AAgAAAAAAAKVsYWJlbKtGYWN0b3J5IOKYg6hlbnRpdGllc8Cld2lyZXPAkZKS1AIAqGVudGl0aWVzkgCVwJIAkgABlAECkgCSAAOSAJIDAZQBApIAkgEEkgCSAQGSAJIHXZGSkdQCAJSSAJEAkgCRAZIAkQGSAJECkoGkbmFtZa50cmFuc3BvcnQtYmVsdIKkbmFtZa1mYXN0LWluc2VydGVypHRhZ3ODpWVtcHR5kKV1bnNldMCnbWF4aW11bc___________5A",
+      "i/t/strings/n": "BX0:inkqF0kpGpYmx1ZXByaW50lYHUAgCFpGl0ZW3UAgCndmVyc2lvbs8AAgAAAAAAAKVsYWJlbKtGYWN0b3J5IOKYg6hlbnRpdGllc8Cld2lyZXPAkZKS1AIAqGVudGl0aWVzkgCVwJIAkgABlAECkgCSAAOSAJIDAZQBApIAkgEEkgCSAQGSAJIHXZGSkdQCAJSSAJEAkgCRAZIAkQGSAJECkoGkbmFtZa50cmFuc3BvcnQtYmVsdIKkbmFtZa1mYXN0LWluc2VydGVypHRhZ3ODpWVtcHR5kKV1bnNldMCnbWF4aW11bc___________5A",
+      "i/u/objects/n": "BX0:inkqF1kpGpYmx1ZXByaW50lYHUAgCFpGl0ZW3UAgCndmVyc2lvbs8AAgAAAAAAAKVsYWJlbKtGYWN0b3J5IOKYg6hlbnRpdGllc8Cld2lyZXPAkZKS1AIAqGVudGl0aWVzkgCVwJIAkgABlAECkgCSAAOSAJIDAZQBApIAkgEEkgCSAQGSAJIHXZGSkdQCAJSSAJEAkgCRAZIAkQGSAJECkoGkbmFtZa50cmFuc3BvcnQtYmVsdIKkbmFtZa1mYXN0LWluc2VydGVypHRhZ3ODpWVtcHR5kKV1bnNldMCnbWF4aW11bc___________5A",
+      "i/u/strings/n": "BX0:inkqF1kpGpYmx1ZXByaW50lYHUAgCFpGl0ZW3UAgCndmVyc2lvbs8AAgAAAAAAAKVsYWJlbKtGYWN0b3J5IOKYg6hlbnRpdGllc8Cld2lyZXPAkZKS1AIAqGVudGl0aWVzkgCVwJIAkgABlAECkgCSAAOSAJIDAZQBApIAkgEEkgCSAQGSAJIHXZGSkdQCAJSSAJEAkgCRAZIAkQGSAJECkoGkbmFtZa50cmFuc3BvcnQtYmVsdIKkbmFtZa1mYXN0LWluc2VydGVypHRhZ3ODpWVtcHR5kKV1bnNldMCnbWF4aW11bc___________5A"
+    }
+  },
+  {
+    "name": "literal-number-extension",
+    "value": {
+      "blueprint": {
+        "item": "blueprint",
+        "tags": {
+          "outside-int64": 1267650600228229401496703205376,
+          "negative-zero": -0.0
+        }
+      }
+    },
+    "frames": {
+      "g/n": "BX0:gnk4GpYmx1ZXByaW50gqRpdGVtqWJsdWVwcmludKR0YWdzgq1vdXRzaWRlLWludDY0xx8DMTI2NzY1MDYwMDIyODIyOTQwMTQ5NjcwMzIwNTM3Nq1uZWdhdGl2ZS16ZXJvy4AAAAAAAAAAkJA"
+    }
+  }
+]
