@@ -125,7 +125,7 @@ The decoder is currently for trusted input. This specification does not claim
 hostile-input resource bounds for decompression or recursive expansion.
 
 Fixed strings and their expected JSON values are in
-[`test-vectors.json`](test-vectors.json). Both implementations read these in CI.
+[`test-vectors.json`](test-vectors.json). Both implementations read these in the local test suite.
 Preserve legacy `items` map entry order when converting back to JSON: Factorio
 can use it to choose module slots while migrating older blueprints. Both
 codecs retain this order; its optional `pack(value, true)` flag is for canonical
