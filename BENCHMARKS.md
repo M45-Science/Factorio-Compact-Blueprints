@@ -33,26 +33,4 @@ For anyone reproducing the test: [measurements](optimized-results.csv), [exact s
 
 [Nilaus Master Class](https://www.factorio.school/view/-MIMpsZJa9WHxI4H6fcD) is a blueprint book: **489,893 → 91,190 characters**, or **5.4:1** (about one-fifth the original length).
 
-<details>
-<summary>Compare the strings side by side</summary>
-
-<table>
-<tr><th>Factorio string</th><th>Compact string</th></tr>
-<tr><td valign="top"><pre>0eNrUvWtvHEmWJfhXCH7axSi63N5micYA1YUZoAf
-9WFT2fhokhBAVUgaKIokgmbVZDf339RClCCfpN+y
-c48GamS/1kBTHr1279rqPc//z8sP14+Zut715eP/
-h9vYvlz/95/FP7i9/+p//SfyD/d9tr25vnv74fvv
-5Zn29/7OH3+82lz9dbh82Xy7fXd6sv+z/3/r+fvP
-lw/X25vPqy/rq1+3NZuUuv7673N583Px/lz+5r++
-...</pre></td><td valign="top"><pre>BX0:il_Td6WFoAAATm1rRGAgAhARwAAAAQz1jM46
--A7_5dAEkoSkknF0nPMcDF3DyKi_8zIAfZ8UTKh2
-kZLAC-KFVfvS3otKLmp5lUYp8w9r1bYIsjxhm54c
-MN8gCNZqZKQ21F-acYL2PNNLa1K1f9SBkK1H3iPL
-U-UPiIS0epoSxxjB3w7tb3lfitar35CB33xq-GuA
-RdquqkUsui-BQPFbhStfLqgMZSukLCuP1J8ntIVg
-...</pre></td></tr>
-</table>
-
-Previews show the first 240 characters. Full copyable strings: [Factorio string](examples/master-class.factorio.txt) · [compact string](examples/master-class.compact.txt).
-
-</details>
+Full strings: [Factorio string](examples/master-class.factorio.txt) · [compact string](examples/master-class.compact.txt).

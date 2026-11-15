@@ -1,8 +1,6 @@
 """Generate a short benchmark table using linked public blueprint designs."""
 import json
-import html
 from pathlib import Path
-import textwrap
 
 ROOT = Path(__file__).parent
 
@@ -61,14 +59,8 @@ def main():
               f"[{example['name']}]({example['source']}) is a blueprint book: "
               f"**{len(source):,} → {len(encoded):,} characters**, or **{len(source)/len(encoded):.1f}:1** "
               '(about one-fifth the original length).', '',
-              '<details>', '<summary>Compare the strings side by side</summary>', '',
-              '<table>', '<tr><th>Factorio string</th><th>Compact string</th></tr>',
-              '<tr><td valign="top"><pre>'+html.escape('\n'.join(textwrap.wrap(source[:240]+'...',40,break_on_hyphens=False)))+
-              '</pre></td><td valign="top"><pre>'+html.escape('\n'.join(textwrap.wrap(encoded[:240]+'...',40,break_on_hyphens=False)))+
-              '</pre></td></tr>', '</table>', '',
-              'Previews show the first 240 characters. Full copyable strings: '
-              '[Factorio string](examples/master-class.factorio.txt) · '
-              '[compact string](examples/master-class.compact.txt).', '', '</details>', '']
+              'Full strings: [Factorio string](examples/master-class.factorio.txt) · '
+              '[compact string](examples/master-class.compact.txt).', '']
     (ROOT / "BENCHMARKS.md").write_text("\n".join(lines))
     print("Wrote BENCHMARKS.md")
 
